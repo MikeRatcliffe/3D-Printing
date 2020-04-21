@@ -10,6 +10,7 @@
         },
         "hash": "3e6a6f3d551906ef65c90778ce82bf3bb9cd2709",
         "analysis": {
+            "analysisFirstFilamentPrintTime": 9.275442806156207,
             "printingArea": {
                 "maxZ": 62.0,
                 "maxX": 147.88600158691406,
@@ -25,7 +26,6 @@
             },
             "compensatedPrintTime": 16278.14102984479,
             "analysisPending": false,
-            "estimatedPrintTime": 16278.14102984479,
             "analysisPrintTime": 16009.69533905016,
             "analysisLastFilamentPrintTime": 16004.03523786537,
             "firstFilament": 9.659961089677e-05,
@@ -1111,8 +1111,8 @@
                     0
                 ]
             ],
+            "estimatedPrintTime": 16278.14102984479,
             "lastFilament": 0.9991881952699494,
-            "analysisFirstFilamentPrintTime": 9.275442806156207,
             "filament": {
                 "tool0": {
                     "volume": 117.53197470170302,
@@ -1140,6 +1140,7 @@
         },
         "hash": "90576dc4d4c8dbe4e068f21f8db7e3fe69bf2a38",
         "analysis": {
+            "analysisFirstFilamentPrintTime": 9.275442806155525,
             "printingArea": {
                 "maxZ": 10.600000381469727,
                 "maxX": 141.427001953125,
@@ -1155,7 +1156,6 @@
             },
             "compensatedPrintTime": 1742.6747361804855,
             "analysisPending": false,
-            "estimatedPrintTime": 1742.6747361804855,
             "analysisPrintTime": 1520.3221995873287,
             "analysisLastFilamentPrintTime": 1514.375781469511,
             "firstFilament": 0.00093363361651177,
@@ -1277,8 +1277,8 @@
                     0
                 ]
             ],
+            "estimatedPrintTime": 1742.6747361804855,
             "lastFilament": 0.992058769029021,
-            "analysisFirstFilamentPrintTime": 9.275442806155525,
             "filament": {
                 "tool0": {
                     "volume": 9.221044702420077,
@@ -1300,6 +1300,7 @@
             }
         ]
     },
+    "4_perimeters": {},
     "x_end_idler_PETG.gcode": {
         "statistics": {
             "averagePrintTime": {
@@ -1311,7 +1312,7 @@
         },
         "hash": "06ccfb6aa55b34f806d1d2b859b2ba54bf19ce0b",
         "analysis": {
-            "analysisFirstFilamentPrintTime": 9.275442806156207,
+            "lastFilament": 0.9990854357229613,
             "printingArea": {
                 "maxZ": 58.0,
                 "maxX": 147.97300720214844,
@@ -2156,8 +2157,8 @@
                     0
                 ]
             ],
+            "analysisFirstFilamentPrintTime": 9.275442806156207,
             "estimatedPrintTime": 12485.637401956104,
-            "lastFilament": 0.9990854357229613,
             "filament": {
                 "tool0": {
                     "volume": 89.85925095485656,
@@ -2185,7 +2186,7 @@
         },
         "hash": "c75618bd5329e84d8365b5a9f908528a74ab6006",
         "analysis": {
-            "analysisFirstFilamentPrintTime": 9.275442806156207,
+            "lastFilament": 0.9990377260699356,
             "printingArea": {
                 "maxZ": 27.0,
                 "maxX": 158.75100708007812,
@@ -3094,8 +3095,8 @@
                     0
                 ]
             ],
+            "analysisFirstFilamentPrintTime": 9.275442806156207,
             "estimatedPrintTime": 13409.119942636871,
-            "lastFilament": 0.9990377260699356,
             "filament": {
                 "tool0": {
                     "volume": 83.42850127059417,
@@ -3138,15 +3139,10 @@
             },
             "compensatedPrintTime": 2443.94007598952,
             "analysisPending": false,
+            "estimatedPrintTime": 2443.94007598952,
             "analysisPrintTime": 2084.646534122882,
             "analysisLastFilamentPrintTime": 2078.929016095074,
             "firstFilament": 0.00124255796532908,
-            "filament": {
-                "tool0": {
-                    "volume": 11.730932618073647,
-                    "length": 1659.58747843944
-                }
-            },
             "progress": [
                 [
                     0,
@@ -3303,7 +3299,12 @@
             ],
             "lastFilament": 0.9893092679440163,
             "analysisFirstFilamentPrintTime": 9.275442806155752,
-            "estimatedPrintTime": 2443.94007598952
+            "filament": {
+                "tool0": {
+                    "volume": 11.730932618073647,
+                    "length": 1659.58747843944
+                }
+            }
         },
         "history": [
             {
@@ -3325,7 +3326,6 @@
         },
         "hash": "f6b7808c53e86f8b4c00a9ada533163217319eb3",
         "analysis": {
-            "lastFilament": 0.9983951641285427,
             "printingArea": {
                 "maxZ": 12.800000190734863,
                 "maxX": 191.41600036621094,
@@ -3344,6 +3344,12 @@
             "analysisPrintTime": 8479.847970898627,
             "analysisLastFilamentPrintTime": 8475.152145862003,
             "firstFilament": 0.00019107355312736,
+            "filament": {
+                "tool0": {
+                    "volume": 60.757315778730955,
+                    "length": 8595.40189793799
+                }
+            },
             "progress": [
                 [
                     0,
@@ -3922,14 +3928,9 @@
                     0
                 ]
             ],
+            "lastFilament": 0.9983951641285427,
             "analysisFirstFilamentPrintTime": 9.275442806156207,
-            "estimatedPrintTime": 8798.407662351923,
-            "filament": {
-                "tool0": {
-                    "volume": 60.757315778730955,
-                    "length": 8595.40189793799
-                }
-            }
+            "estimatedPrintTime": 8798.407662351923
         },
         "history": [
             {
@@ -3986,15 +3987,10 @@
             },
             "compensatedPrintTime": 24962.033896506466,
             "analysisPending": false,
+            "estimatedPrintTime": 24962.033896506466,
             "analysisPrintTime": 24750.101004976543,
             "analysisLastFilamentPrintTime": 24744.99042494746,
             "firstFilament": 6.629873604301e-05,
-            "filament": {
-                "tool0": {
-                    "volume": 145.6424924859442,
-                    "length": 20604.197869655327
-                }
-            },
             "progress": [
                 [
                     0,
@@ -5659,7 +5655,12 @@
             ],
             "lastFilament": 0.9994554663813001,
             "analysisFirstFilamentPrintTime": 9.275442806156207,
-            "estimatedPrintTime": 24962.033896506466
+            "filament": {
+                "tool0": {
+                    "volume": 145.6424924859442,
+                    "length": 20604.197869655327
+                }
+            }
         },
         "history": [
             {

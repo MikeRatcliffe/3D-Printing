@@ -1,7 +1,7 @@
 {
     "finger_saver_nail_holder_with_divot.gcode": {
         "analysis": {
-            "analysisFirstFilamentPrintTime": 11.182865898421369,
+            "lastFilament": 0.9971542124257027,
             "printingArea": {
                 "maxZ": 38.79999923706055,
                 "maxX": 164.379,
@@ -546,8 +546,8 @@
                     0
                 ]
             ],
+            "analysisFirstFilamentPrintTime": 11.182865898421369,
             "estimatedPrintTime": 7602.707715341858,
-            "lastFilament": 0.9971542124257027,
             "filament": {
                 "tool0": {
                     "volume": 45.944293806998076,
@@ -555,5 +555,6 @@
                 }
             }
         }
-    }
+    },
+    "finger_saver_nail_holder_with_divot.stl": {}
 }

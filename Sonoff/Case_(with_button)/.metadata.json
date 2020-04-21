@@ -1,7 +1,6 @@
 {
     "base_PETG.gcode": {
         "analysis": {
-            "lastFilament": 0.998528894276703,
             "printingArea": {
                 "maxZ": 26.0,
                 "maxX": 182.379,
@@ -17,6 +16,7 @@
             },
             "compensatedPrintTime": 115857.43633560205,
             "analysisPending": false,
+            "estimatedPrintTime": 115857.43633560205,
             "analysisPrintTime": 115857.43633560205,
             "analysisLastFilamentPrintTime": 115853.43042214723,
             "firstFilament": 0.00021643276225372,
@@ -7498,8 +7498,8 @@
                     0
                 ]
             ],
+            "lastFilament": 0.998528894276703,
             "analysisFirstFilamentPrintTime": 67.39065842551645,
-            "estimatedPrintTime": 115857.43633560205,
             "filament": {
                 "tool0": {
                     "volume": 100.11201342042264,
@@ -7508,9 +7508,10 @@
             }
         }
     },
+    "base.stl": {},
+    "top.stl": {},
     "base_PLA.gcode": {
         "analysis": {
-            "analysisFirstFilamentPrintTime": 67.39065842551645,
             "printingArea": {
                 "maxZ": 26.0,
                 "maxX": 179.597,
@@ -7529,6 +7530,12 @@
             "analysisPrintTime": 104152.46600198805,
             "analysisLastFilamentPrintTime": 104148.47222771944,
             "firstFilament": 0.00021654835343576,
+            "filament": {
+                "tool0": {
+                    "volume": 103.3696897132655,
+                    "length": 14623.819629992578
+                }
+            },
             "progress": [
                 [
                     0,
@@ -14287,14 +14294,9 @@
                     0
                 ]
             ],
-            "estimatedPrintTime": 104152.46600198805,
             "lastFilament": 0.9985234119633656,
-            "filament": {
-                "tool0": {
-                    "volume": 103.3696897132655,
-                    "length": 14623.819629992578
-                }
-            }
+            "analysisFirstFilamentPrintTime": 67.39065842551645,
+            "estimatedPrintTime": 104152.46600198805
         }
     }
 }

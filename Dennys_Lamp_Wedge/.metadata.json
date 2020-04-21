@@ -1,0 +1,22 @@
+{
+    "Dennys_Lamp_Wedge_PETG.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 4223.994507996002
+            },
+            "lastPrintTime": {
+                "_default": 4223.994507996002
+            }
+        },
+        "hash": "13a3ef508596b402ca2864d38d557095af3b730e",
+        "history": [
+            {
+                "timestamp": 1587481270.271659,
+                "printTime": 4223.994507996002,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "Dennys_Lamp_Wedge.stl": {}
+}

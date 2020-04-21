@@ -1,7 +1,7 @@
 {
     "BasicProgrammingClip-PLA_OPTIMAL.gcode": {
         "analysis": {
-            "analysisFirstFilamentPrintTime": 11.184114312602105,
+            "lastFilament": 0.9974116783437715,
             "printingArea": {
                 "maxZ": 12.649999618530273,
                 "maxX": 176.468,
@@ -742,8 +742,8 @@
                     0
                 ]
             ],
+            "analysisFirstFilamentPrintTime": 11.184114312602105,
             "estimatedPrintTime": 10566.024035565844,
-            "lastFilament": 0.9974116783437715,
             "filament": {
                 "tool0": {
                     "volume": 24.681475752102408,
@@ -751,5 +751,6 @@
                 }
             }
         }
-    }
+    },
+    "SonoffBasicProgrammingClip-5.STL": {}
 }

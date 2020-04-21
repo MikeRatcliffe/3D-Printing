@@ -1,7 +1,7 @@
 {
+    "base.stl": {},
     "Case_PLA_OPTIMAL.gcode": {
         "analysis": {
-            "analysisFirstFilamentPrintTime": 11.184114312600286,
             "printingArea": {
                 "maxZ": 26.0,
                 "maxX": 205.647,
@@ -20,6 +20,12 @@
             "analysisPrintTime": 48462.43909573701,
             "analysisLastFilamentPrintTime": 48460.41754191946,
             "firstFilament": 9.327851607206e-05,
+            "filament": {
+                "tool0": {
+                    "volume": 123.90184759206869,
+                    "length": 17528.525779996784
+                }
+            },
             "progress": [
                 [
                     0,
@@ -3230,14 +3236,10 @@
                     0
                 ]
             ],
-            "estimatedPrintTime": 48462.43909573701,
             "lastFilament": 0.999307451017465,
-            "filament": {
-                "tool0": {
-                    "volume": 123.90184759206869,
-                    "length": 17528.525779996784
-                }
-            }
+            "analysisFirstFilamentPrintTime": 11.184114312600286,
+            "estimatedPrintTime": 48462.43909573701
         }
-    }
+    },
+    "top_nogrid.stl": {}
 }

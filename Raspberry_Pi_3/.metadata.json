@@ -1,7 +1,8 @@
 {
+    "DiodePress_RaspberryPi_Case_Bottom.stl": {},
+    "DiodePress_RaspberryPi_Case_TOP.stl": {},
     "DiodePress_RaspberryPi_Case_PLA_OPTIMAL.gcode": {
         "analysis": {
-            "analysisFirstFilamentPrintTime": 11.184114312600286,
             "printingArea": {
                 "maxZ": 20.299999237060547,
                 "maxX": 222.037,
@@ -20,6 +21,12 @@
             "analysisPrintTime": 44535.691990530984,
             "analysisLastFilamentPrintTime": 44533.76221310952,
             "firstFilament": 5.214107462456e-05,
+            "filament": {
+                "tool0": {
+                    "volume": 93.88405417050843,
+                    "length": 13281.876709994393
+                }
+            },
             "progress": [
                 [
                     0,
@@ -2990,14 +2997,9 @@
                     0
                 ]
             ],
-            "estimatedPrintTime": 44535.691990530984,
             "lastFilament": 0.9995597888928903,
-            "filament": {
-                "tool0": {
-                    "volume": 93.88405417050843,
-                    "length": 13281.876709994393
-                }
-            }
+            "analysisFirstFilamentPrintTime": 11.184114312600286,
+            "estimatedPrintTime": 44535.691990530984
         }
     }
 }
