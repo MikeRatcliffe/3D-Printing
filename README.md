@@ -30,19 +30,7 @@ $ `sudo nano /home/pi/mjpg-streamer/start.sh`
 
 ## Printer Profile
 
-```
-Form Factor: Rectangular
-Origin: Lower Left
-Heated Bed: True
-Heated Chamber: False
-X: 250
-Y: 210
-Z: 200
-Custom bounding box: True
-X Min: 0
-X Max: 250
-Y Min: -3
-Y Max: 210
-Z Min: 0
-Z Max: 200
-```
+![General Settings](https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/1.%20General.png)
+![Print Bed and Build Volume](https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/2.%20Print%20Bed%20and%20Build%20Volume.png)
+![Axes](https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/3.%20Axes.png)
+![Hotend and Extruder](https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/4.%20Hotend%20and%20Extruder.png)
