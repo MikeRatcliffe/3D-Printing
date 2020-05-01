@@ -2,11 +2,13 @@
 
 ## Logitec C920 Setup
 
-$ `sudo nano /etc/rc.local`
+$ `sudo nano /home/pi/mjpg-streamer/start.sh`
 
 ```bash
 /usr/bin/v4l2-ctl -c focus_auto=0
 /usr/bin/v4l2-ctl -c focus_absolute=102
+/usr/bin/v4l2-ctl -c exposure_auto=1
+/usr/bin/v4l2-ctl -c exposure_absolute=700
 /usr/bin/v4l2-ctl -c white_balance_temperature_auto=0
 /usr/bin/v4l2-ctl -c white_balance_temperature=6500
 ```
