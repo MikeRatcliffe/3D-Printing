@@ -15,18 +15,7 @@ $ `sudo nano /home/pi/mjpg-streamer/start.sh`
 
 ## Plugins
 
-- Cancel Objects
-- Exclude Region
-- FileManager
-- Fullscreen Plugin
-- M73 Progress Plugin
-- MultipleUpload Plugin
-- PrintTimeGenius Plugin
-- PrusaSlicer Thumbnails
-- STL Viewer
-- Tab Order
-- Tasmota
-- Themeify
+![Plugins](https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/Plugins.png)
 
 ## Printer Profile
 
