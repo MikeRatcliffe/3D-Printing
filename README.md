@@ -2,7 +2,7 @@
 
 ## Logitec C920 Setup
 
-$ `sudo nano /home/pi/mjpg-streamer/start.sh`
+$ `sudo nano /etc/rc.local`
 
 ```bash
 /usr/bin/v4l2-ctl -c focus_auto=0
