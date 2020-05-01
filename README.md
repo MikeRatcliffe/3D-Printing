@@ -19,14 +19,14 @@ $ `sudo nano /home/pi/mjpg-streamer/start.sh`
 - Exclude Region
 - FileManager
 - Fullscreen Plugin
-- M73 Progress Plugin (0.2.0)
-- MultipleUpload Plugin (1.1.0)
-- PrintTimeGenius Plugin (2.2.1)
-- PrusaSlicer Thumbnails (0.0.7)
-- STL Viewer (0.4.2)
-- Tab Order (0.5.6)
-- Tasmota (0.8.11)
-- Themeify (1.2.2)
+- M73 Progress Plugin
+- MultipleUpload Plugin
+- PrintTimeGenius Plugin
+- PrusaSlicer Thumbnails
+- STL Viewer
+- Tab Order
+- Tasmota
+- Themeify
 
 ## Printer Profile
 
