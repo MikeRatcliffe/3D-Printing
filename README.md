@@ -15,15 +15,22 @@ $ `sudo nano /home/pi/mjpg-streamer/start.sh`
 
 ## Plugins
 
-<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/Plugins.png" width="47%" alt="Plugins">
+<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/Plugins.png" width="47%" alt="Plugins" align="center">
 
 ## Printer Profile
 
-<p>
-<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/1.%20General.png" width="47%" alt="General Settings" align="left">
-<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/2.%20Print%20Bed%20and%20Build%20Volume.png" width="47%" alt="Print Bed and Build Volume" align="right">
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/3.%20Axes.png" width="47%" alt="Axes" align="left">
-<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/4.%20Hotend%20and%20Extruder.png" width="47%" alt="Hotend and Extruder" align="right">
-</p>
+### General
+
+<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/1.%20General.png" width="47%" alt="General Settings" align="center">
+
+### Bed and Volume
+
+<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/2.%20Print%20Bed%20and%20Build%20Volume.png" width="47%" alt="Print Bed and Build Volume" align="center">
+
+### Axes
+
+<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/3.%20Axes.png" width="47%" alt="Axes" align="center">
+
+### Hotend and Extruder
+
+<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/4.%20Hotend%20and%20Extruder.png" width="47%" alt="Hotend and Extruder" align="center">
