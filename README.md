@@ -15,9 +15,23 @@ $ `sudo nano /etc/rc.local`
 
 ## Plugins
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/Plugins.png" width="70%" alt="Plugins">
-</p>
+```bash
+/home/pi/oprint/bin/pip install "https://github.com/paukstelis/OctoPrint-Cancelobject/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/Salandora/OctoPrint-FileManager/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/OctoPrint/OctoPrint-FirmwareUpdater/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/BillyBlaze/OctoPrint-FullScreen/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/chatrat12/layerdisplay/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/cesarvandevelde/OctoPrint-M73Progress/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/eyal0/OctoPrint-MultipleUpload/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/eyal0/OctoPrint-PrintTimeGenius/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/jneilliii/OctoPrint-PrusaSlicerThumbnails/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/Sebclem/OctoPrint-SimpleEmergencyStop/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/jneilliii/Octoprint-STLViewer/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/jneilliii/OctoPrint-TabOrder/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/jneilliii/OctoPrint-Tasmota/archive/master.zip"
+/home/pi/oprint/bin/pip install "https://github.com/birkbjo/OctoPrint-Themeify/archive/master.zip"
+```
 
 ## Printer Profile
 
