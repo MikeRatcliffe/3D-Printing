@@ -8,9 +8,9 @@ $ `sudo nano /etc/rc.local`
 /usr/bin/v4l2-ctl -c focus_auto=0
 /usr/bin/v4l2-ctl -c focus_absolute=102
 /usr/bin/v4l2-ctl -c exposure_auto=1
-/usr/bin/v4l2-ctl -c exposure_absolute=700
+/usr/bin/v4l2-ctl -c exposure_absolute=400
 /usr/bin/v4l2-ctl -c white_balance_temperature_auto=0
-/usr/bin/v4l2-ctl -c white_balance_temperature=6500
+/usr/bin/v4l2-ctl -c white_balance_temperature=5500
 ```
 
 ## Plugins
