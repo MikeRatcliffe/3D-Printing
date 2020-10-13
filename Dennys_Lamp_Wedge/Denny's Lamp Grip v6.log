@@ -1,0 +1,51 @@
+STEP translation to Solid Edge
+Date: Friday,September 25,2020 09:10PM
+Source File: C:\Users\ratcliffes\Desktop\3D-Printing\Dennys_Lamp_Wedge\Denny's Lamp Grip v6.step
+Author: Unknown
+Organization: Unknown
+Source System: Autodesk Translation Framework v9.3.0.1241
+
+Hardware:
+Processor: Intel(R) Xeon(R) CPU E3-1505M v5 @ 2.80GHz
+Operating System: Windows 10
+Installed Memory: 15.82 GB
+
+Software Information
+Parasolid Version: 32.0.186
+PSBodyShop Version: 31.1.110
+Step Adapter Version: 5.0.107
+Solid Edge Version: 220.00.04.002 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\ratcliffes\Desktop\3D-Printing\Dennys_Lamp_Wedge
+Import Enable Default Output Path: On
+Import PMI: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\ratcliffes\Desktop\3D-Printing\Dennys_Lamp_Wedge\Denny's Lamp Grip v6.asm
+|--+Created SE Part File C:\Users\ratcliffes\Desktop\3D-Printing\Dennys_Lamp_Wedge\Denny's Lamp Grip v6.par
+Bodies: 0
+|--+Created SE Part File C:\Users\ratcliffes\Desktop\3D-Printing\Dennys_Lamp_Wedge\Lamp Grip.par
+Bodies: 0
++Total Parts: 2
++Assemblies: 0
++Solid Bodies: 2
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 01
