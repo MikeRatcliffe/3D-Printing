@@ -326,7 +326,6 @@ M900 K45 ; Filament gcode LA 1.0
 ;Z:0.2
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer1
 G92 E0.0
 ;0.2
 
@@ -372,7 +371,7 @@ G1 X66.186 Y99.418 E0.01633
 G1 X64.630 Y80.147 E0.60618
 G1 X64.632 Y76.652 E0.10959
 G1 X64.810 Y75.946 E0.02285
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;WIPE_START
 G1 F8640.000
 G1 X65.257 Y75.228 E-0.19524
@@ -2212,12 +2211,11 @@ G1 F1200.000
 G1 X177.518 Y83.559 E0.00231
 ;WIDTH:0.21888
 G1 X177.238 Y83.708 E0.00464
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:0.4
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer2
 G92 E0.0
 ;0.4
 
@@ -2267,7 +2265,7 @@ G1 X181.577 Y72.608 E3.53422
 G1 X182.818 Y72.629 E0.03891
 G1 X183.605 Y72.880 E0.02590
 G1 X184.280 Y73.424 E0.02719
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;WIPE_START
 G1 F8640.000
 G1 X184.771 Y74.280 E-0.22782
@@ -4057,12 +4055,11 @@ G1 F2400.000
 G1 X175.582 Y75.902 E0.00308
 ;WIDTH:0.234307
 G1 X175.126 Y75.982 E0.00737
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:0.6
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer3
 G92 E0.0
 ;0.6
 
@@ -4111,7 +4108,7 @@ M73 P22 R35
 G1 X182.818 Y72.629 E0.03891
 G1 X183.605 Y72.880 E0.02590
 G1 X184.280 Y73.424 E0.02719
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;WIPE_START
 G1 F8640.000
 G1 X184.771 Y74.280 E-0.22782
@@ -5939,13 +5936,12 @@ G1 X113.540 Y118.004 E1.18657
 G1 X112.963 Y118.004 E0.01962
 G1 X101.032 Y106.073 E0.57313
 M204 S1000
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 M106 S76.5
 ;LAYER_CHANGE
 ;Z:0.8
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer4
 G92 E0.0
 ;0.8
 
@@ -5958,7 +5954,7 @@ G1 E-0.07000 F2100.000
 G1 Z0.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;0.8
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z1.000
 G1 X74.478 Y81.928
 M73 P27 R32
@@ -7743,12 +7739,11 @@ G1 X71.773 Y97.331 E0.57729
 G1 X71.197 Y97.330 E0.01956
 G1 X83.987 Y84.540 E0.61375
 M204 S1000
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:1
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer5
 G92 E0.0
 ;1
 
@@ -7761,7 +7756,7 @@ G1 E-0.07000 F2100.000
 G1 Z1.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z1.200
 G1 X74.191 Y82.186
 G1 Z1.000
@@ -9650,12 +9645,11 @@ M204 S2000
 G1 F5891.826
 G1 X69.670 Y96.889 E0.03948
 M204 S1000
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:1.2
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer6
 G92 E0.0
 ;1.2
 
@@ -9668,7 +9662,7 @@ G1 E-1.13085 F2100.000
 G1 Z1.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.2
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z1.400
 G1 X84.109 Y90.219
 G1 Z1.200
@@ -11832,12 +11826,11 @@ G1 X176.686 Y75.911 E0.00827
 G1 X175.984 Y75.955 E0.01047
 ;WIDTH:0.345015
 G1 X175.648 Y75.986 E0.00849
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:1.4
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer7
 G92 E0.0
 ;1.4
 
@@ -11850,7 +11843,7 @@ G1 E-1.32198 F2100.000
 G1 Z1.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.4
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 X175.779 Y76.338
 G1 E1.40000 F2100.000
 M204 S800
@@ -13761,12 +13754,11 @@ G1 X113.294 Y118.804 E1.29229
 G1 X112.717 Y118.804 E0.01958
 G1 X98.682 Y104.769 E0.67345
 M204 S1000
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:1.6
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer8
 G92 E0.0
 ;1.6
 
@@ -13779,7 +13771,7 @@ G1 E-0.07000 F2100.000
 G1 Z1.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.6
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z1.800
 G1 X173.672 Y81.468
 G1 Z1.600
@@ -15640,12 +15632,11 @@ G1 X70.976 Y98.130 E0.61545
 G1 X70.400 Y98.130 E0.01956
 G1 X83.987 Y84.542 E0.65190
 M204 S1000
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:1.8
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer9
 G92 E0.0
 ;1.8
 
@@ -15658,7 +15649,7 @@ G1 E-0.07000 F2100.000
 G1 Z1.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.8
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z2.000
 G1 X173.247 Y80.188
 G1 Z1.800
@@ -17599,12 +17590,11 @@ G1 X179.203 Y83.156 E0.00601
 G1 X178.771 Y83.499 E0.00910
 ;WIDTH:0.334481
 G1 X178.587 Y83.632 E0.00551
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:2
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer10
 G92 E0.0
 ;2
 
@@ -17617,7 +17607,7 @@ G1 E-1.34749 F2100.000
 G1 Z2.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 X178.593 Y82.751
 G1 E1.40000 F2100.000
 M204 S800
@@ -19604,12 +19594,11 @@ G1 X180.342 Y76.737 E0.00129
 G1 X181.422 Y76.737 E0.03656
 G1 X181.422 Y78.076 E0.04531
 M204 S1000
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:2.2
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer11
 G92 E0.0
 ;2.2
 
@@ -19632,7 +19621,7 @@ G1 E-0.13919 F2100.000
 G1 Z2.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.2
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z2.400
 G1 X74.885 Y82.766
 G1 Z2.200
@@ -20146,12 +20135,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:2.4
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer12
 G92 E0.0
 ;2.4
 
@@ -20164,7 +20152,7 @@ G1 E-1.20534 F2100.000
 G1 Z2.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.4
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z2.600
 G1 X68.448 Y83.194
 G1 Z2.400
@@ -20511,12 +20499,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:2.6
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer13
 G92 E0.0
 ;2.6
 
@@ -20529,7 +20516,7 @@ G1 E-1.20534 F2100.000
 G1 Z2.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.6
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z2.800
 G1 X68.448 Y83.194
 G1 Z2.600
@@ -21379,12 +21366,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:2.8
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer14
 G92 E0.0
 ;2.8
 
@@ -21397,7 +21383,7 @@ G1 E-1.20533 F2100.000
 G1 Z2.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.8
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z3.000
 G1 X68.448 Y83.194
 G1 Z2.800
@@ -22227,12 +22213,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:3
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer15
 G92 E0.0
 ;3
 
@@ -22245,7 +22230,7 @@ G1 E-1.20533 F2100.000
 G1 Z3.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z3.200
 G1 X68.448 Y83.194
 G1 Z3.000
@@ -23095,12 +23080,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:3.2
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer16
 G92 E0.0
 ;3.2
 
@@ -23113,7 +23097,7 @@ G1 E-1.20533 F2100.000
 G1 Z3.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.2
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z3.400
 G1 X68.448 Y83.194
 G1 Z3.200
@@ -23895,12 +23879,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:3.4
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer17
 G92 E0.0
 ;3.4
 
@@ -23913,7 +23896,7 @@ G1 E-1.20533 F2100.000
 G1 Z3.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.4
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z3.600
 G1 X68.448 Y83.194
 G1 Z3.400
@@ -24678,12 +24661,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:3.6
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer18
 G92 E0.0
 ;3.6
 
@@ -24696,7 +24678,7 @@ G1 E-1.20533 F2100.000
 G1 Z3.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.6
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z3.800
 G1 X68.448 Y83.194
 G1 Z3.600
@@ -25461,12 +25443,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:3.8
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer19
 G92 E0.0
 ;3.8
 
@@ -25479,7 +25460,7 @@ G1 E-1.20533 F2100.000
 G1 Z3.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.8
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z4.000
 G1 X68.448 Y83.194
 G1 Z3.800
@@ -26265,12 +26246,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:4
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer20
 G92 E0.0
 ;4
 
@@ -26283,7 +26263,7 @@ G1 E-1.20533 F2100.000
 G1 Z4.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z4.200
 G1 X68.448 Y83.194
 G1 Z4.000
@@ -27047,12 +27027,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:4.2
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer21
 G92 E0.0
 ;4.2
 
@@ -27065,7 +27044,7 @@ G1 E-1.20533 F2100.000
 G1 Z4.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.2
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z4.400
 G1 X68.448 Y83.194
 G1 Z4.200
@@ -27823,12 +27802,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:4.4
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer22
 G92 E0.0
 ;4.4
 
@@ -27841,7 +27819,7 @@ G1 E-1.20533 F2100.000
 G1 Z4.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.4
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z4.600
 G1 X68.448 Y83.194
 G1 Z4.400
@@ -28598,12 +28576,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:4.6
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer23
 G92 E0.0
 ;4.6
 
@@ -28616,7 +28593,7 @@ G1 E-1.20533 F2100.000
 G1 Z4.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.6
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z4.800
 G1 X174.448 Y83.194
 G1 Z4.600
@@ -29368,12 +29345,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164717
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:4.8
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer24
 G92 E0.0
 ;4.8
 
@@ -29386,7 +29362,7 @@ G1 E-1.20534 F2100.000
 G1 Z4.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.8
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z5.000
 G1 X174.247 Y80.177
 G1 Z4.800
@@ -30197,12 +30173,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164717
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:5
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer25
 G92 E0.0
 ;5
 
@@ -30215,7 +30190,7 @@ G1 E-1.20534 F2100.000
 G1 Z5.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z5.200
 G1 X68.448 Y83.194
 G1 Z5.000
@@ -31056,12 +31031,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164717
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:5.2
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer26
 G92 E0.0
 ;5.2
 
@@ -31074,7 +31048,7 @@ G1 E-1.20534 F2100.000
 G1 Z5.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5.2
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z5.400
 G1 X68.448 Y83.193
 G1 Z5.200
@@ -31877,12 +31851,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:5.4
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer27
 G92 E0.0
 ;5.4
 
@@ -31895,7 +31868,7 @@ G1 E-1.20534 F2100.000
 G1 Z5.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5.4
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z5.600
 G1 X68.448 Y82.993
 G1 Z5.400
@@ -32629,12 +32602,11 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164717
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;LAYER_CHANGE
 ;Z:5.6
 ;HEIGHT:0.2
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer28
 G92 E0.0
 ;5.6
 
@@ -32647,7 +32619,7 @@ G1 E-1.20534 F2100.000
 G1 Z5.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5.6
-@Object Bear_MK2x_Cover.stl id:0 copy 0
+; printing object Bear_MK2x_Cover.stl id:0 copy 0
 G1 Z5.800
 G1 X74.155 Y77.480
 G1 Z5.600
@@ -33413,7 +33385,7 @@ G1 E1.40000 F2100.000
 ;WIDTH:0.164718
 G1 F2400.000
 G1 X68.434 Y99.544 E0.00854
-@Objectstop Bear_MK2x_Cover.stl id:0 copy 0
+; stop printing object Bear_MK2x_Cover.stl id:0 copy 0
 ;WIPE_START
 G1 F8640.000;_WIPE
 G1 X67.837 Y98.948 E-0.19467

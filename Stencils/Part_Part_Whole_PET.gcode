@@ -472,7 +472,7 @@ G1 X64.995 Y54.406 E0.01459
 G1 X65.249 Y53.974 E0.01448
 G1 X65.592 Y53.602 E0.01459
 G1 X66.265 Y53.197 E0.02264
-@Object Part_Part_Whole.stl id:0 copy 0
+; printing object Part_Part_Whole.stl id:0 copy 0
 G1 F8640.000
 G1 X67.147 Y53.012 E-0.20812
 G1 X69.537 Y53.012 E-0.55188
@@ -4629,7 +4629,7 @@ G1 X81.499 Y125.286 E0.04633
 G1 X80.237 Y124.024 E0.05151
 G1 X80.661 Y123.914 E0.01263
 G1 X81.173 Y124.426 E0.02092
-@Objectstop Part_Part_Whole.stl id:0 copy 0
+; stop printing object Part_Part_Whole.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;0.4
@@ -4676,7 +4676,7 @@ G1 X66.176 Y156.775 E0.01459
 G1 X65.744 Y156.521 E0.01448
 G1 X65.372 Y156.178 E0.01459
 G1 X64.968 Y155.506 E0.02264
-@Object Part_Part_Whole.stl id:0 copy 0
+; printing object Part_Part_Whole.stl id:0 copy 0
 G1 F8640.000
 G1 X64.782 Y154.624 E-0.20812
 G1 X64.782 Y152.233 E-0.55188
@@ -8702,7 +8702,7 @@ G1 X106.541 Y124.323 E0.06901
 G1 X106.114 Y124.174 E0.01410
 G1 X105.310 Y124.978 E0.03540
 M204 S1000
-@Objectstop Part_Part_Whole.stl id:0 copy 0
+; stop printing object Part_Part_Whole.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;0.6
@@ -8746,7 +8746,7 @@ G1 X66.176 Y156.775 E0.01459
 G1 X65.744 Y156.521 E0.01448
 G1 X65.372 Y156.178 E0.01459
 G1 X64.968 Y155.506 E0.02264
-@Object Part_Part_Whole.stl id:0 copy 0
+; printing object Part_Part_Whole.stl id:0 copy 0
 G1 F8640.000
 G1 X64.782 Y154.624 E-0.20812
 G1 X64.782 Y152.233 E-0.55188
@@ -12753,7 +12753,7 @@ G1 X156.671 Y112.509 E0.01366
 G1 X156.383 Y111.903 E0.02089
 G1 X164.068 Y119.588 E0.33862
 M204 S1000
-@Objectstop Part_Part_Whole.stl id:0 copy 0
+; stop printing object Part_Part_Whole.stl id:0 copy 0
 M106 S127.5
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
@@ -12766,7 +12766,7 @@ G1 E-0.04000 F2100.00000
 G1 Z1.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;0.8
-@Object Part_Part_Whole.stl id:0 copy 0
+; printing object Part_Part_Whole.stl id:0 copy 0
 G1 X164.960 Y120.761
 G1 Z0.800
 G1 E0.80000 F2100.00000
@@ -16789,7 +16789,7 @@ G1 X106.541 Y124.323 E0.06901
 G1 X106.114 Y124.174 E0.01410
 G1 X105.310 Y124.978 E0.03540
 M204 S1000
-@Objectstop Part_Part_Whole.stl id:0 copy 0
+; stop printing object Part_Part_Whole.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;1
@@ -16803,7 +16803,7 @@ G1 E-0.04000 F2100.00000
 G1 Z1.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1
-@Object Part_Part_Whole.stl id:0 copy 0
+; printing object Part_Part_Whole.stl id:0 copy 0
 G1 X130.563 Y122.634
 G1 Z1.000
 G1 E0.80000 F2100.00000
@@ -21083,14 +21083,14 @@ G1 X144.048 Y65.234 E0.00593
 G1 X143.713 Y64.524 E0.02148
 G1 X149.094 Y69.905 E0.20823
 M204 S1000
-@Objectstop Part_Part_Whole.stl id:0 copy 0
+; stop printing object Part_Part_Whole.stl id:0 copy 0
 G1 F8640.000;_WIPE
 G1 X146.767 Y67.577 E-0.76000
 G1 E-0.04000 F2100.00000
 G1 Z1.600 F10800.000
 M107
 ; Filament-specific end gcode
-@Object ENDGCODE
+; printing object ENDGCODE
 G4 ; wait
 M104 S0 ; turn off temperature
 M140 S0 ; turn off heatbed

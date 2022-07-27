@@ -502,7 +502,6 @@ M83 ; use relative distances for extrusion
 M900 K0.08 ; Filament gcode LA 1.5
 M900 K45 ; Filament gcode LA 1.0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer1
 G92 E0.0
 ;0.2
 
@@ -572,7 +571,7 @@ G1 X87.808 Y80.419 E1.32766
 G1 X88.292 Y78.829 E0.05211
 G1 X89.345 Y76.527 E0.07937
 G1 X90.660 Y74.553 E0.07439
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 F8640.000
 G1 X91.871 Y73.164 E-0.42552
 G1 X93.749 Y71.539 E-0.57329
@@ -810,8 +809,8 @@ G1 X93.724 Y117.488 E0.01414
 G1 X94.401 Y117.927 E0.02583
 G1 X94.999 Y118.412 E0.02463
 G1 X96.473 Y119.886 E0.06671
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X94.999 Y118.412 E-0.48140
 G1 X94.401 Y117.927 E-0.17770
@@ -2695,8 +2694,8 @@ G1 X141.589 Y78.017 E0.00507
 G1 X141.168 Y78.469 E0.00507
 G1 X140.769 Y78.946 E0.00510
 G1 X140.121 Y79.848 E0.00911
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X140.769 Y78.946 E-0.25638
 G1 X141.168 Y78.469 E-0.14365
@@ -2939,9 +2938,8 @@ G1 X163.987 Y119.770 E0.01414
 G1 X164.664 Y120.210 E0.02583
 G1 X165.262 Y120.694 E0.02462
 G1 X166.736 Y122.169 E0.06671
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer2
 G92 E0.0
 ;0.4
 
@@ -3019,7 +3017,7 @@ G1 X163.956 Y79.078 E0.07604
 G1 X164.669 Y80.701 E0.05558
 G1 X165.340 Y83.030 E0.07602
 G1 X170.800 Y119.784 E1.16502
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 F8640.000
 G1 X171.608 Y125.222 E-1.26939
 G1 X171.622 Y125.484 E-0.06061
@@ -3263,8 +3261,8 @@ G1 X96.418 Y128.924 E0.02916
 G1 X95.907 Y129.555 E0.02798
 G1 X94.346 Y131.116 E0.07605
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X95.907 Y129.555 E-0.50965
 G1 X96.418 Y128.924 E-0.18747
@@ -5572,8 +5570,8 @@ G1 X113.682 Y78.672 E0.01687
 G1 X113.827 Y78.960 E0.00769
 G1 X114.022 Y79.328 E0.01106
 G1 X114.172 Y79.634 E0.00972
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X114.022 Y79.328 E-0.07870
 G1 E-1.32130 F2100.00000
@@ -5816,9 +5814,8 @@ G1 X155.373 Y119.899 E0.02920
 G1 X154.742 Y120.410 E0.02800
 G1 X153.182 Y121.970 E0.07601
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer3
 G92 E0.0
 ;0.6
 
@@ -5894,7 +5891,7 @@ G1 X163.956 Y79.078 E0.07604
 G1 X164.669 Y80.701 E0.05558
 G1 X165.340 Y83.030 E0.07602
 G1 X170.523 Y117.914 E1.10575
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 F8640.000
 G1 X171.369 Y123.611 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -6142,8 +6139,8 @@ G1 X94.704 Y117.510 E0.02940
 G1 X95.359 Y118.041 E0.02880
 G1 X96.916 Y119.598 E0.07517
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X95.359 Y118.041 E-0.50828
 G1 X94.704 Y117.510 E-0.19475
@@ -8799,8 +8796,8 @@ G1 X155.414 Y75.583 E0.02005
 G1 X156.087 Y75.958 E0.02615
 G1 X154.672 Y74.543 E0.06791
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X156.087 Y75.958 E-0.46210
 G1 X155.414 Y75.583 E-0.17793
@@ -9054,10 +9051,9 @@ G1 X164.967 Y119.793 E0.02940
 G1 X165.622 Y120.324 E0.02880
 G1 X167.179 Y121.880 E0.07516
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 M106 S76.5
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer4
 G92 E0.0
 ;0.8
 
@@ -9072,7 +9068,7 @@ G1 E-0.07000 F2100.00000
 G1 Z0.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;0.8
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z1.000
 G1 X98.420 Y123.267
 G1 Z0.800
@@ -9316,8 +9312,8 @@ G1 X96.577 Y129.040 E0.02987
 G1 X96.053 Y129.687 E0.02867
 G1 X94.471 Y131.269 E0.07701
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X96.053 Y129.687 E-0.51667
 G1 X96.577 Y129.040 E-0.19233
@@ -11963,8 +11959,8 @@ G1 X122.172 Y85.204 E0.64295
 G1 X122.598 Y85.355 E0.01533
 G1 X109.007 Y98.946 E0.65191
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X113.080 Y94.873 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -12211,9 +12207,8 @@ G1 X153.423 Y121.574 E0.02987
 G1 X153.949 Y120.925 E0.02876
 G1 X155.528 Y119.345 E0.07687
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer5
 G92 E0.0
 ;1
 
@@ -12228,7 +12223,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z1.200
 G1 X98.484 Y124.166
 G1 Z1.000
@@ -12462,8 +12457,8 @@ G1 X82.277 Y127.546 E0.02944
 G1 X82.060 Y126.982 E0.02045
 G1 X84.595 Y117.522 E0.33150
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X83.104 Y123.085 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -15418,8 +15413,8 @@ G1 X113.373 Y131.927 E0.01802
 G1 X113.006 Y131.180 E0.02819
 G1 X119.753 Y137.928 E0.32315
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X115.680 Y133.855 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -15638,9 +15633,8 @@ M204 S2000
 G1 F5895.652
 G1 X157.015 Y134.337 E0.34205
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer6
 G92 E0.0
 ;1.2
 
@@ -15651,7 +15645,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.2
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z1.400
 G1 X98.437 Y125.066
 G1 Z1.200
@@ -15882,8 +15876,8 @@ G1 X90.737 Y115.901 E0.02809
 G1 X91.571 Y116.033 E0.02859
 G1 X98.221 Y122.683 E0.31832
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X94.148 Y118.610 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -19521,8 +19515,8 @@ M204 S2000
 G1 F5895.652
 G1 X107.386 Y73.073 E0.02467
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X108.089 Y72.884 E-0.16826
 G1 E-1.23174 F2100.00000
@@ -19739,9 +19733,8 @@ M204 S2000
 G1 F5895.652
 G1 X165.208 Y119.645 E0.45116
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer7
 G92 E0.0
 ;1.4
 
@@ -19752,7 +19745,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.4
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z1.600
 G1 X98.484 Y124.166
 G1 Z1.400
@@ -20034,8 +20027,8 @@ G1 X82.536 Y120.313 E0.81605
 G1 X82.760 Y119.905 E0.02405
 G1 X94.272 Y131.417 E0.83995
 M106 S76.5
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X90.199 Y127.344 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -23568,8 +23561,8 @@ M204 S2000
 G1 F5895.652
 G1 X132.800 Y116.982 E0.06986
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X134.793 Y116.448 E-0.47656
 G1 E-0.92344 F2100.00000
@@ -23857,9 +23850,8 @@ G1 X155.257 Y133.158 E0.04474
 G1 X154.610 Y132.635 E0.04292
 G1 X152.976 Y131.001 E0.11919
 M106 S76.5
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer8
 G92 E0.0
 ;1.6
 
@@ -23874,7 +23866,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.6
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z1.800
 G1 X98.429 Y125.065
 G1 Z1.600
@@ -24186,8 +24178,8 @@ G1 X83.152 Y119.286 E0.02994
 G1 X83.677 Y118.637 E0.02875
 G1 X85.260 Y117.055 E0.07710
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X83.677 Y118.637 E-0.51676
 G1 X83.152 Y119.286 E-0.19271
@@ -27704,8 +27696,8 @@ M204 S2000
 G1 F5895.652
 G1 X142.761 Y95.495 E0.18322
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X137.532 Y96.896 E-1.24985
 G1 E-0.15015 F2100.00000
@@ -28014,9 +28006,8 @@ M204 S2000
 G1 F5895.652
 G1 X161.535 Y126.252 E0.05780
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer9
 G92 E0.0
 ;1.8
 
@@ -28027,7 +28018,7 @@ G1 E-1.00573 F2100.00000
 G1 Z1.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.8
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z2.000
 G1 X98.422 Y124.166
 G1 Z1.800
@@ -28306,8 +28297,8 @@ G1 X85.021 Y130.838 E0.02955
 G1 X84.367 Y130.308 E0.02880
 G1 X82.803 Y128.745 E0.07568
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X84.367 Y130.308 E-0.51049
 G1 X85.021 Y130.838 E-0.19429
@@ -31873,8 +31864,8 @@ M204 S2000
 G1 F5895.652
 G1 X122.980 Y138.871 E0.34595
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X128.543 Y137.380 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -32156,9 +32147,8 @@ G1 X164.979 Y119.776 E0.02956
 G1 X165.633 Y120.305 E0.02878
 G1 X167.197 Y121.869 E0.07572
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer10
 G92 E0.0
 ;2
 
@@ -32173,7 +32163,7 @@ G1 E-0.07000 F2100.00000
 G1 Z2.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z2.200
 G1 X98.262 Y123.283
 G1 Z2.000
@@ -32448,8 +32438,8 @@ G1 X83.288 Y119.384 E0.02947
 G1 X83.796 Y118.757 E0.02796
 G1 X85.370 Y117.183 E0.07705
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X83.796 Y118.757 E-0.51392
 G1 X83.288 Y119.384 E-0.18647
@@ -35113,8 +35103,8 @@ M204 S2000
 G1 F5895.652
 G1 X160.683 Y90.986 E0.08812
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X163.197 Y90.312 E-0.60110
 G1 E-0.79890 F2100.00000
@@ -35392,9 +35382,8 @@ G1 X161.766 Y126.620 E0.01158
 G1 X161.698 Y126.943 E0.01141
 G1 X166.947 Y121.693 E0.25699
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer11
 G92 E0.0
 ;2.2
 
@@ -35405,7 +35394,7 @@ G1 E-0.07000 F2100.00000
 G1 Z2.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.2
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z2.400
 G1 X98.098 Y124.166
 G1 Z2.200
@@ -35787,8 +35776,8 @@ G1 X91.512 Y124.166 E0.01304
 G1 X91.489 Y123.907 E0.00956
 G1 X91.839 Y124.257 E0.01824
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X91.489 Y123.907 E-0.11434
 G1 X91.512 Y124.166 E-0.05993
@@ -38442,8 +38431,8 @@ M204 S2000
 G1 F5895.652
 G1 X135.969 Y129.362 E0.08623
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X138.430 Y128.703 E-0.58820
 G1 E-0.81180 F2100.00000
@@ -38828,9 +38817,8 @@ G1 X159.076 Y127.058 E0.00769
 G1 X159.129 Y127.140 E0.00586
 G1 X159.819 Y127.830 E0.05871
 M106 S76.5
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer12
 G92 E0.0
 ;2.4
 
@@ -38850,7 +38838,7 @@ G1 E-0.07000 F2100.00000
 G1 Z2.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.4
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z2.600
 G1 X94.236 Y124.166
 G1 Z2.400
@@ -39054,8 +39042,8 @@ G1 X93.154 Y126.553 E0.01494
 G1 X92.944 Y126.813 E0.01185
 G1 X91.836 Y127.921 E0.05550
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.944 Y126.813 E-0.36184
 G1 X93.154 Y126.553 E-0.07723
@@ -41682,8 +41670,8 @@ M204 S2000
 G1 F5895.652
 G1 X135.921 Y129.521 E0.08967
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X138.480 Y128.835 E-0.61171
 G1 E-0.78829 F2100.00000
@@ -41890,9 +41878,8 @@ G1 X157.744 Y123.163 E0.01506
 G1 X157.484 Y123.374 E0.01188
 G1 X156.377 Y124.481 E0.05545
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer13
 G92 E0.0
 ;2.6
 
@@ -41908,7 +41895,7 @@ G1 E-0.07000 F2100.00000
 G1 Z2.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.6
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z2.800
 G1 X94.236 Y124.166
 G1 Z2.600
@@ -42113,8 +42100,8 @@ G1 X92.256 Y120.880 E0.01506
 G1 X92.516 Y121.090 E0.01184
 G1 X93.624 Y122.198 E0.05550
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.516 Y121.090 E-0.36184
 G1 X92.256 Y120.880 E-0.07722
@@ -44766,8 +44753,8 @@ M204 S2000
 G1 F5895.652
 G1 X160.444 Y91.489 E0.10077
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X163.320 Y90.718 E-0.68743
 G1 E-0.71257 F2100.00000
@@ -44975,9 +44962,8 @@ G1 X162.519 Y123.163 E0.01506
 G1 X162.779 Y123.373 E0.01185
 G1 X163.887 Y124.481 E0.05549
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer14
 G92 E0.0
 ;2.8
 
@@ -44993,7 +44979,7 @@ G1 E-0.07000 F2100.00000
 G1 Z2.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.8
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z3.000
 G1 X94.236 Y124.166
 G1 Z2.800
@@ -45198,8 +45184,8 @@ G1 X93.154 Y126.553 E0.01506
 G1 X92.944 Y126.813 E0.01185
 G1 X91.836 Y127.921 E0.05550
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.944 Y126.813 E-0.36184
 G1 X93.154 Y126.553 E-0.07723
@@ -47794,8 +47780,8 @@ G1 X127.884 Y137.333 E0.02489
 G1 X128.484 Y137.151 E0.02122
 G1 X127.820 Y139.629 E0.08683
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X128.484 Y137.151 E-0.59234
 G1 X127.884 Y137.333 E-0.14475
@@ -48008,9 +47994,8 @@ G1 X157.744 Y123.163 E0.01506
 G1 X157.484 Y123.374 E0.01188
 G1 X156.377 Y124.481 E0.05545
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer15
 G92 E0.0
 ;3
 
@@ -48026,7 +48011,7 @@ G1 E-0.07000 F2100.00000
 G1 Z3.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z3.200
 G1 X94.236 Y124.166
 G1 Z3.000
@@ -48236,8 +48221,8 @@ G1 X92.270 Y120.860 E0.01317
 G1 X92.553 Y121.088 E0.01120
 G1 X93.589 Y122.124 E0.04510
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.553 Y121.088 E-0.33817
 G1 X92.270 Y120.860 E-0.08397
@@ -50830,8 +50815,8 @@ G1 X127.884 Y137.333 E0.02489
 G1 X128.325 Y137.199 E0.01558
 G1 X127.652 Y139.709 E0.08796
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X128.325 Y137.199 E-0.60004
 G1 X127.884 Y137.333 E-0.10629
@@ -51049,9 +51034,8 @@ G1 X157.730 Y129.754 E0.01317
 G1 X157.446 Y129.525 E0.01123
 G1 X156.412 Y128.490 E0.04506
 M204 S1000
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer16
 G92 E0.0
 ;3.2
 
@@ -51067,7 +51051,7 @@ G1 E-0.07000 F2100.00000
 G1 Z3.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.2
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z3.400
 G1 X91.974 Y124.387
 G1 Z3.200
@@ -51171,8 +51155,8 @@ G1 X92.379 Y123.902 E0.00895
 G1 X92.387 Y124.288 E0.01309
 M204 S1000
 G1 X92.077 Y124.499 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.339 Y124.687 E-0.09261
 G1 X92.270 Y124.946 E-0.06197
@@ -53830,8 +53814,8 @@ M204 S2000
 G1 F5895.652
 G1 X112.149 Y73.261 E0.09978
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X109.302 Y74.024 E-0.68064
 G1 E-0.71936 F2100.00000
@@ -54029,9 +54013,8 @@ G1 X157.048 Y125.076 E0.01150
 G1 X157.209 Y124.761 E0.01150
 G1 X157.401 Y124.465 E0.01150
 G1 X157.731 Y124.082 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer17
 G92 E0.0
 ;3.4
 
@@ -54057,7 +54040,7 @@ G1 E-0.07000 F2100.00000
 G1 Z3.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.4
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z3.600
 G1 X91.986 Y124.166
 G1 Z3.400
@@ -54161,8 +54144,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -56800,8 +56783,8 @@ M204 S2000
 G1 F5895.652
 G1 X117.640 Y135.152 E0.10122
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X114.751 Y135.926 E-0.69051
 G1 E-0.70949 F2100.00000
@@ -56999,9 +56982,8 @@ G1 X157.401 Y128.432 E0.01150
 G1 X157.209 Y128.136 E0.01150
 G1 X157.048 Y127.821 E0.01150
 G1 X156.882 Y127.344 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer18
 G92 E0.0
 ;3.6
 
@@ -57027,7 +57009,7 @@ G1 E-0.07000 F2100.00000
 G1 Z3.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.6
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z3.800
 G1 X91.986 Y124.166
 G1 Z3.600
@@ -57131,8 +57113,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -59754,8 +59736,8 @@ M204 S2000
 G1 F5895.652
 G1 X117.787 Y135.259 E0.10249
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X114.862 Y136.042 E-0.69915
 G1 E-0.70085 F2100.00000
@@ -59953,9 +59935,8 @@ G1 X157.401 Y128.432 E0.01150
 G1 X157.209 Y128.136 E0.01150
 G1 X157.048 Y127.821 E0.01150
 G1 X156.882 Y127.344 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer19
 G92 E0.0
 ;3.8
 
@@ -59981,7 +59962,7 @@ G1 E-0.07000 F2100.00000
 G1 Z3.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.8
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z4.000
 G1 X91.986 Y124.166
 G1 Z3.800
@@ -60085,8 +60066,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -62790,8 +62771,8 @@ M204 S2000
 G1 F5895.652
 G1 X110.574 Y124.695 E0.09057
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X113.158 Y124.002 E-0.61786
 G1 E-0.78214 F2100.00000
@@ -62989,9 +62970,8 @@ G1 X157.048 Y127.821 E0.01150
 G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.767 Y126.649 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer20
 G92 E0.0
 ;4
 
@@ -63017,7 +62997,7 @@ G1 E-0.07000 F2100.00000
 G1 Z4.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z4.200
 G1 X91.986 Y124.166
 G1 Z4.000
@@ -63121,8 +63101,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -65825,8 +65805,8 @@ M204 S2000
 G1 F5895.652
 G1 X110.584 Y124.838 E0.08931
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X113.133 Y124.155 E-0.60926
 G1 E-0.79074 F2100.00000
@@ -66024,9 +66004,8 @@ G1 X157.048 Y127.821 E0.01150
 G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.767 Y126.649 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer21
 G92 E0.0
 ;4.2
 
@@ -66052,7 +66031,7 @@ G1 E-0.07000 F2100.00000
 G1 Z4.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.2
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z4.400
 G1 X91.986 Y124.166
 G1 Z4.200
@@ -66156,8 +66135,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -68862,8 +68841,8 @@ M204 S2000
 G1 F5895.652
 G1 X103.447 Y70.003 E0.27413
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X97.883 Y71.494 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -69061,9 +69040,8 @@ G1 X156.922 Y125.405 E0.01150
 G1 X157.048 Y125.076 E0.01150
 G1 X157.209 Y124.761 E0.01150
 G1 X157.497 Y124.346 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer22
 G92 E0.0
 ;4.4
 
@@ -69089,7 +69067,7 @@ G1 E-0.07000 F2100.00000
 G1 Z4.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.4
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z4.600
 G1 X91.986 Y124.166
 G1 Z4.400
@@ -69192,8 +69170,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -71913,8 +71891,8 @@ M204 S2000
 G1 F5895.652
 G1 X101.793 Y95.879 E0.15938
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X97.245 Y97.097 E-1.08723
 G1 E-0.31277 F2100.00000
@@ -72112,9 +72090,8 @@ G1 X156.775 Y126.096 E0.01150
 G1 X156.830 Y125.747 E0.01150
 G1 X156.922 Y125.405 E0.01150
 G1 X157.118 Y124.940 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer23
 G92 E0.0
 ;4.6
 
@@ -72140,7 +72117,7 @@ G1 E-0.07000 F2100.00000
 G1 Z4.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.6
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z4.800
 G1 X91.986 Y124.166
 G1 Z4.600
@@ -72243,8 +72220,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -74947,8 +74924,8 @@ M204 S2000
 G1 F5895.652
 G1 X138.765 Y124.048 E0.08064
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X136.464 Y124.665 E-0.55009
 G1 E-0.84991 F2100.00000
@@ -75146,9 +75123,8 @@ G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.775 Y126.801 E0.01150
 G1 X156.765 Y126.296 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer24
 G92 E0.0
 ;4.8
 
@@ -75174,7 +75150,7 @@ G1 E-0.07000 F2100.00000
 G1 Z4.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.8
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z5.000
 G1 X91.986 Y124.166
 G1 Z4.800
@@ -75277,8 +75253,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -77987,8 +77963,8 @@ M204 S2000
 G1 F5895.652
 G1 X104.304 Y70.212 E0.32666
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X98.740 Y71.703 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -78186,9 +78162,8 @@ G1 X157.048 Y125.076 E0.01150
 G1 X157.209 Y124.761 E0.01150
 G1 X157.401 Y124.465 E0.01150
 G1 X157.731 Y124.082 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer25
 G92 E0.0
 ;5
 
@@ -78214,7 +78189,7 @@ G1 E-0.07000 F2100.00000
 G1 Z5.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z5.200
 G1 X91.986 Y124.166
 G1 Z5.000
@@ -78317,8 +78292,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -81972,8 +81947,8 @@ M204 S2000
 G1 F5895.652
 G1 X137.002 Y131.135 E0.07218
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X134.943 Y131.687 E-0.49238
 G1 E-0.90762 F2100.00000
@@ -82171,9 +82146,8 @@ G1 X157.401 Y128.432 E0.01150
 G1 X157.209 Y128.136 E0.01150
 G1 X157.048 Y127.821 E0.01150
 G1 X156.882 Y127.344 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer26
 G92 E0.0
 ;5.2
 
@@ -82199,7 +82173,7 @@ G1 E-0.07000 F2100.00000
 G1 Z5.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5.2
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z5.400
 G1 X91.986 Y124.166
 G1 Z5.200
@@ -82302,8 +82276,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -85935,8 +85909,8 @@ M204 S2000
 G1 F5895.652
 G1 X91.823 Y80.171 E0.05035
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X90.386 Y80.556 E-0.34346
 G1 E-1.05654 F2100.00000
@@ -86132,9 +86106,8 @@ G1 X156.829 Y125.757 E0.01095
 G1 X156.922 Y125.405 E0.01161
 G1 X157.048 Y125.076 E0.01128
 G1 X157.292 Y124.633 E0.01613
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer27
 G92 E0.0
 ;5.4
 
@@ -86152,7 +86125,7 @@ G1 E-0.64290 F2100.00000
 G1 Z5.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5.4
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z5.600
 G1 X91.986 Y124.166
 G1 Z5.400
@@ -86255,8 +86228,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -89912,8 +89885,8 @@ M204 S2000
 G1 F5895.652
 G1 X111.785 Y125.541 E0.04378
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X113.035 Y125.207 E-0.29866
 G1 E-1.10134 F2100.00000
@@ -90110,9 +90083,8 @@ G1 X157.048 Y127.821 E0.01116
 G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.767 Y126.649 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer28
 G92 E0.0
 ;5.6
 
@@ -90123,7 +90095,7 @@ G1 E-1.35126 F2100.00000
 G1 Z5.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5.6
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z5.800
 G1 X91.986 Y124.166
 G1 Z5.600
@@ -90226,8 +90198,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -93872,8 +93844,8 @@ M204 S2000
 G1 F5895.652
 G1 X118.064 Y136.648 E0.04800
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X119.434 Y136.281 E-0.32742
 G1 E-1.07258 F2100.00000
@@ -94069,9 +94041,8 @@ G1 X157.408 Y128.440 E0.01116
 G1 X157.209 Y128.136 E0.01183
 G1 X157.048 Y127.821 E0.01150
 G1 X156.882 Y127.344 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer29
 G92 E0.0
 ;5.8
 
@@ -94083,7 +94054,7 @@ G1 E-1.18826 F2100.00000
 G1 Z5.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5.8
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z6.000
 G1 X91.986 Y124.166
 G1 Z5.800
@@ -94186,8 +94157,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -97842,8 +97813,8 @@ M204 S2000
 G1 F5895.652
 G1 X91.038 Y87.142 E0.02108
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X91.640 Y86.981 E-0.14383
 G1 E-1.25617 F2100.00000
@@ -98039,9 +98010,8 @@ G1 X156.775 Y126.096 E0.01094
 G1 X156.830 Y125.747 E0.01126
 G1 X156.922 Y125.405 E0.01127
 G1 X157.118 Y124.940 E0.01611
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer30
 G92 E0.0
 ;6
 
@@ -98060,7 +98030,7 @@ G1 E-0.56768 F2100.00000
 G1 Z6.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;6
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z6.200
 G1 X91.986 Y124.166
 G1 Z6.000
@@ -98163,8 +98133,8 @@ G1 X92.338 Y123.641 E0.00894
 G1 X92.386 Y124.024 E0.01309
 M204 S1000
 G1 X92.097 Y124.268 F10800.000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X92.379 Y124.429 E-0.09354
 G1 X92.338 Y124.690 E-0.06102
@@ -101123,8 +101093,8 @@ G1 X155.708 Y98.002 E0.02334
 G1 X155.434 Y98.122 E0.01018
 G1 X162.242 Y91.315 E0.32684
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X158.169 Y95.388 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -101321,9 +101291,8 @@ G1 X159.089 Y123.239 E0.01150
 G1 X159.430 Y123.147 E0.01150
 G1 X159.779 Y123.098 E0.01149
 G1 X160.286 Y123.084 E0.01651
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer31
 G92 E0.0
 ;6.2
 
@@ -101349,7 +101318,7 @@ G1 E-0.07000 F2100.00000
 G1 Z6.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;6.2
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z6.400
 G1 X91.986 Y124.166
 G1 Z6.200
@@ -101479,8 +101448,8 @@ M204 S2000
 G1 F5895.652
 G1 X90.380 Y122.246 E0.06703
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X88.467 Y122.758 E-0.45725
 G1 E-0.94275 F2100.00000
@@ -104380,8 +104349,8 @@ G1 X113.374 Y131.929 E0.01777
 G1 X113.006 Y131.180 E0.02827
 G1 X119.756 Y137.931 E0.32331
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X115.683 Y133.858 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -104578,9 +104547,8 @@ G1 X157.624 Y128.707 E0.01150
 G1 X157.401 Y128.432 E0.01150
 G1 X157.209 Y128.136 E0.01150
 G1 X156.994 Y127.679 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer32
 G92 E0.0
 ;6.4
 
@@ -104606,7 +104574,7 @@ G1 E-0.07000 F2100.00000
 G1 Z6.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;6.4
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z6.600
 G1 X91.986 Y124.166
 G1 Z6.400
@@ -104736,8 +104704,8 @@ M204 S2000
 G1 F5895.652
 G1 X90.626 Y122.326 E0.08175
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X88.293 Y122.951 E-0.55766
 G1 E-0.84234 F2100.00000
@@ -107386,8 +107354,8 @@ G1 X122.172 Y85.204 E0.64270
 G1 X122.598 Y85.355 E0.01533
 G1 X109.007 Y98.946 E0.65192
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X113.080 Y94.873 E-1.33000
 G1 E-0.07000 F2100.00000
@@ -107584,9 +107552,8 @@ G1 X156.775 Y126.096 E0.01150
 G1 X156.830 Y125.747 E0.01150
 G1 X156.922 Y125.405 E0.01150
 G1 X157.118 Y124.940 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer33
 G92 E0.0
 ;6.6
 
@@ -107612,7 +107579,7 @@ G1 E-0.07000 F2100.00000
 G1 Z6.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;6.6
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z6.800
 G1 X91.986 Y124.166
 G1 Z6.600
@@ -107769,8 +107736,8 @@ M204 S2000
 G1 F5895.652
 G1 X90.815 Y122.422 E0.09245
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X88.177 Y123.129 E-0.63063
 G1 E-0.76937 F2100.00000
@@ -110410,8 +110377,8 @@ G1 X158.263 Y77.001 E0.02207
 G1 X158.722 Y77.438 E0.02151
 G1 X160.203 Y78.919 E0.07107
 M204 S1000
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X158.722 Y77.438 E-0.48359
 G1 X158.263 Y77.001 E-0.14639
@@ -110614,9 +110581,8 @@ G1 X158.759 Y123.365 E0.01150
 G1 X159.089 Y123.239 E0.01150
 G1 X159.430 Y123.147 E0.01150
 G1 X159.909 Y123.086 E0.01572
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer34
 G92 E0.0
 ;6.8
 
@@ -110642,7 +110608,7 @@ G1 E-0.07000 F2100.00000
 G1 Z6.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;6.8
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z7.000
 G1 X91.986 Y124.166
 G1 Z6.800
@@ -110788,8 +110754,8 @@ M204 S2000
 G1 F5895.652
 G1 X90.988 Y122.522 E0.10202
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X88.077 Y123.302 E-0.69594
 G1 E-0.70406 F2100.00000
@@ -113081,8 +113047,8 @@ G1 X112.924 Y77.407 E0.01639
 G1 X113.456 Y78.256 E0.02200
 G1 X113.661 Y78.624 E0.00926
 G1 X113.755 Y78.837 E0.00511
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X113.661 Y78.624 E-0.05372
 G1 X113.456 Y78.256 E-0.09731
@@ -113287,9 +113253,8 @@ G1 X157.048 Y125.076 E0.01150
 G1 X157.209 Y124.761 E0.01150
 G1 X157.401 Y124.465 E0.01150
 G1 X157.731 Y124.082 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer35
 G92 E0.0
 ;7
 
@@ -113315,7 +113280,7 @@ G1 E-0.07000 F2100.00000
 G1 Z7.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;7
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z7.200
 G1 X91.986 Y124.166
 G1 Z7.000
@@ -113460,8 +113425,8 @@ M204 S2000
 G1 F5895.652
 G1 X91.128 Y122.631 E0.10925
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object Classic.stl_1 id:0 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object Classic.stl_1 id:0 copy 0
 G1 F8640.000
 G1 X88.010 Y123.466 E-0.74529
 G1 E-0.65471 F2100.00000
@@ -115634,8 +115599,8 @@ G1 Z7.000
 G1 E1.40000 F2100.00000
 G1 F2400.000
 G1 X134.068 Y118.375 E0.00572
-@Objectstop Classic.stl_1 id:0 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object Classic.stl_1 id:0 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X133.730 Y117.767 E-0.16059
 G1 E-1.23941 F2100.00000
@@ -115832,10 +115797,9 @@ G1 X156.775 Y126.801 E0.01150
 G1 X156.757 Y126.448 E0.01150
 G1 X156.775 Y126.096 E0.01150
 G1 X156.870 Y125.599 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 M106 S127.5
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer36
 G92 E0.0
 ;7.2
 
@@ -115861,7 +115825,7 @@ G1 E-0.07000 F2100.00000
 G1 Z7.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;7.2
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z7.400
 G1 X91.986 Y124.166
 G1 Z7.200
@@ -116007,8 +115971,8 @@ M204 S2000
 G1 F900
 G1 X91.253 Y122.744 E0.11547
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X87.958 Y123.627 E-0.78770
 G1 E-0.61230 F2100.00000
@@ -116205,9 +116169,8 @@ G1 X156.925 Y127.501 E0.01116
 G1 X156.830 Y127.150 E0.01183
 G1 X156.775 Y126.801 E0.01150
 G1 X156.761 Y126.365 E0.01419
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer37
 G92 E0.0
 ;7.4
 
@@ -116234,7 +116197,7 @@ G1 E-0.07000 F2100.00000
 G1 Z7.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;7.4
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z7.600
 G1 X91.986 Y124.166
 G1 Z7.400
@@ -116380,8 +116343,8 @@ M204 S2000
 G1 F900
 G1 X91.173 Y122.671 E0.12084
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X90.249 Y126.120 E-0.82431
 G1 E-0.57569 F2100.00000
@@ -116582,9 +116545,8 @@ G1 X156.775 Y126.801 E0.01183
 G1 X156.757 Y126.438 E0.01183
 G1
 G1 X156.764 Y126.298 E0.00445
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer38
 G92 E0.0
 ;7.6
 
@@ -116609,7 +116571,7 @@ G1 E-0.12990 F2100.00000
 G1 Z7.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;7.6
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z7.800
 G1 X91.986 Y124.166
 G1 Z7.600
@@ -116754,8 +116716,8 @@ M204 S2000
 G1 F900
 G1 X91.055 Y122.565 E0.12544
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X90.096 Y126.145 E-0.85567
 G1 E-0.54433 F2100.00000
@@ -116955,9 +116917,8 @@ G1 X156.775 Y126.801 E0.01183
 G1 X156.757 Y126.438 E0.01183
 G1
 G1 X156.765 Y126.296 E0.00451
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer39
 G92 E0.0
 ;7.8
 
@@ -116982,7 +116943,7 @@ G1 E-0.13028 F2100.00000
 G1 Z7.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;7.8
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z8.000
 G1 X91.986 Y124.166
 G1 Z7.800
@@ -117128,8 +117089,8 @@ M204 S2000
 G1 F900
 G1 X90.930 Y122.488 E0.12838
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X89.948 Y126.151 E-0.87574
 G1 E-0.52426 F2100.00000
@@ -117329,9 +117290,8 @@ G1 X156.775 Y126.801 E0.01183
 G1 X156.757 Y126.438 E0.01183
 G1
 G1 X156.765 Y126.296 E0.00452
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer40
 G92 E0.0
 ;8
 
@@ -117356,7 +117316,7 @@ G1 E-0.13033 F2100.00000
 G1 Z8.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;8
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z8.200
 G1 X91.986 Y124.166
 G1 Z8.000
@@ -117513,8 +117473,8 @@ M204 S2000
 G1 F900
 G1 X90.803 Y122.415 E0.13099
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X89.801 Y126.153 E-0.89354
 G1 E-0.50646 F2100.00000
@@ -117714,9 +117674,8 @@ G1 X156.775 Y126.801 E0.01183
 G1 X156.757 Y126.438 E0.01183
 G1
 G1 X156.765 Y126.296 E0.00452
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer41
 G92 E0.0
 ;8.2
 
@@ -117741,7 +117700,7 @@ G1 E-0.13037 F2100.00000
 G1 Z8.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;8.2
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z8.400
 G1 X91.986 Y124.166
 G1 Z8.200
@@ -117871,8 +117830,8 @@ M204 S2000
 G1 F900
 G1 X90.676 Y122.342 E0.13336
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X89.656 Y126.148 E-0.90972
 G1 E-0.49028 F2100.00000
@@ -118072,9 +118031,8 @@ G1 X156.775 Y126.801 E0.01183
 G1 X156.757 Y126.438 E0.01183
 G1
 G1 X156.765 Y126.296 E0.00453
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer42
 G92 E0.0
 ;8.4
 
@@ -118099,7 +118057,7 @@ G1 E-0.12805 F2100.00000
 G1 Z8.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;8.4
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z8.600
 G1 X91.986 Y124.166
 G1 Z8.400
@@ -118229,8 +118187,8 @@ M204 S2000
 G1 F900
 G1 X90.541 Y122.299 E0.13386
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X89.518 Y126.119 E-0.91317
 G1 E-0.48683 F2100.00000
@@ -118430,9 +118388,8 @@ G1 X156.775 Y126.801 E0.01183
 G1 X156.757 Y126.438 E0.01183
 G1
 G1 X156.765 Y126.296 E0.00454
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer43
 G92 E0.0
 ;8.6
 
@@ -118457,7 +118414,7 @@ G1 E-0.12804 F2100.00000
 G1 Z8.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;8.6
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z8.800
 G1 X91.986 Y124.166
 G1 Z8.600
@@ -118587,8 +118544,8 @@ M204 S2000
 G1 F900
 G1 X90.406 Y122.255 E0.13437
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X89.379 Y126.089 E-0.91661
 G1 E-0.48339 F2100.00000
@@ -118786,9 +118743,8 @@ G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.775 Y126.801 E0.01150
 G1 X156.765 Y126.296 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer44
 G92 E0.0
 ;8.8
 
@@ -118814,7 +118770,7 @@ G1 E-0.07000 F2100.00000
 G1 Z8.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;8.8
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z9.000
 G1 X91.986 Y124.166
 G1 Z8.800
@@ -118945,8 +118901,8 @@ M204 S2000
 G1 F900
 G1 X91.358 Y125.490 E0.13469
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X88.544 Y122.676 E-0.91882
 G1 E-0.48118 F2100.00000
@@ -119144,9 +119100,8 @@ G1 X157.048 Y127.821 E0.01150
 G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.767 Y126.649 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer45
 G92 E0.0
 ;9
 
@@ -119172,7 +119127,7 @@ G1 E-0.07000 F2100.00000
 G1 Z9.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;9
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z9.200
 G1 X91.986 Y124.166
 G1 Z9.000
@@ -119302,8 +119257,8 @@ M204 S2000
 G1 F900
 G1 X91.442 Y125.374 E0.13318
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X88.660 Y122.592 E-0.90848
 G1 E-0.49152 F2100.00000
@@ -119501,9 +119456,8 @@ G1 X157.048 Y127.821 E0.01150
 G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.767 Y126.649 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer46
 G92 E0.0
 ;9.2
 
@@ -119529,7 +119483,7 @@ G1 E-0.07000 F2100.00000
 G1 Z9.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;9.2
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z9.400
 G1 X91.986 Y124.166
 G1 Z9.200
@@ -119688,8 +119642,8 @@ G1 X91.574 Y124.720 E0.01931
 G1 X91.422 Y125.062 E0.01931
 G1 X91.212 Y125.351 E0.01840
 G1 X90.528 Y126.035 E0.04977
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X91.212 Y125.351 E-0.22316
 G1 X91.422 Y125.062 E-0.08251
@@ -119895,9 +119849,8 @@ G1 X157.048 Y127.821 E0.01150
 G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.767 Y126.649 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer47
 G92 E0.0
 ;9.4
 
@@ -119923,7 +119876,7 @@ G1 E-0.07000 F2100.00000
 G1 Z9.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;9.4
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z9.600
 G1 X91.986 Y124.166
 G1 Z9.400
@@ -120086,8 +120039,8 @@ G1 X90.605 Y122.512 E0.01420
 G1 X90.932 Y122.701 E0.01407
 G1 X91.752 Y123.520 E0.04308
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X90.932 Y122.701 E-0.26754
 G1 X90.605 Y122.512 E-0.08739
@@ -120292,9 +120245,8 @@ G1 X157.048 Y127.821 E0.01150
 G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.767 Y126.649 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer48
 G92 E0.0
 ;9.6
 
@@ -120320,7 +120272,7 @@ G1 E-0.07000 F2100.00000
 G1 Z9.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;9.6
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z9.800
 G1 X91.986 Y124.166
 G1 Z9.600
@@ -120483,8 +120435,8 @@ G1 X91.436 Y125.071 E0.01407
 G1 X91.286 Y125.277 E0.00950
 G1 X90.526 Y126.037 E0.03996
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X91.286 Y125.277 E-0.24820
 G1 X91.436 Y125.071 E-0.05900
@@ -120690,9 +120642,8 @@ G1 X157.048 Y127.821 E0.01150
 G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.767 Y126.649 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer49
 G92 E0.0
 ;9.8
 
@@ -120718,7 +120669,7 @@ G1 E-0.07000 F2100.00000
 G1 Z9.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;9.8
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z10.000
 G1 X91.986 Y124.166
 G1 Z9.800
@@ -120881,8 +120832,8 @@ G1 X90.605 Y122.512 E0.01429
 G1 X90.932 Y122.701 E0.01407
 G1 X91.752 Y123.520 E0.04308
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X90.932 Y122.701 E-0.26754
 G1 X90.605 Y122.512 E-0.08738
@@ -121087,9 +121038,8 @@ G1 X157.048 Y127.821 E0.01150
 G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.767 Y126.649 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 ;BEFORE_LAYER_CHANGE
-M117 INDICATOR-Layer50
 G92 E0.0
 ;10
 
@@ -121115,7 +121065,7 @@ G1 E-0.07000 F2100.00000
 G1 Z10.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;10
-@Object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_2 id:2 copy 0
 G1 Z10.200
 G1 X91.986 Y124.166
 G1 Z10.000
@@ -121284,8 +121234,8 @@ G1 X91.458 Y125.083 E0.01167
 G1 X91.246 Y125.375 E0.01096
 G1 X90.613 Y126.008 E0.02725
 M204 S1000
-@Objectstop bearing-pin.stl_2 id:2 copy 0
-@Object bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_2 id:2 copy 0
+; printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000
 G1 X91.246 Y125.375 E-0.20686
 G1 X91.458 Y125.083 E-0.08316
@@ -121490,7 +121440,7 @@ G1 X157.048 Y127.821 E0.01150
 G1 X156.922 Y127.491 E0.01150
 G1 X156.830 Y127.150 E0.01150
 G1 X156.767 Y126.649 E0.01644
-@Objectstop bearing-pin.stl_1 id:1 copy 0
+; stop printing object bearing-pin.stl_1 id:1 copy 0
 G1 F8640.000;_WIPE
 G1 X156.775 Y126.096 E-0.12768
 G1 F8640.000;_WIPE
@@ -121527,7 +121477,7 @@ G1 E-0.07000 F2100.00000
 G1 Z10.200 F10800.000
 M107
 ; Filament-specific end gcode
-@Object ENDGCODE
+; printing object ENDGCODE
 G4 ; wait
 M104 S0 ; turn off temperature
 M140 S0 ; turn off heatbed

@@ -465,7 +465,7 @@ G1 X57.839 Y49.010 E0.01585
 G1 X58.099 Y48.572 E0.01597
 G1 X58.444 Y48.203 E0.01585
 G1 X59.112 Y47.805 E0.02437
-@Object water_tray_insert_2x3.stl id:0 copy 0
+; printing object water_tray_insert_2x3.stl id:0 copy 0
 G1 F8640.000
 G1 X59.991 Y47.623 E-0.20727
 G1 X64.854 Y47.623 E-1.12273
@@ -2941,7 +2941,7 @@ G1 X188.930 Y52.027 E0.01675
 G1 X187.973 Y51.070 E0.04250
 G1 X188.506 Y51.070 E0.01675
 G1 X189.100 Y51.663 E0.02634
-@Objectstop water_tray_insert_2x3.stl id:0 copy 0
+; stop printing object water_tray_insert_2x3.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;0.4
@@ -2991,7 +2991,7 @@ G1 X59.164 Y47.775 E0.02626
 G1 X59.991 Y47.623 E0.02637
 G1 X190.004 Y47.623 E4.07645
 G1 X190.847 Y47.791 E0.02696
-@Object water_tray_insert_2x3.stl id:0 copy 0
+; printing object water_tray_insert_2x3.stl id:0 copy 0
 G1 F8640.000
 G1 X191.670 Y48.308 E-0.22439
 G1 X192.187 Y49.069 E-0.21237
@@ -5326,7 +5326,7 @@ G1 X89.082 Y50.937 E1.34986
 G1 X89.659 Y50.937 E0.01956
 G1 X60.754 Y79.842 E1.38630
 M204 S1000
-@Objectstop water_tray_insert_2x3.stl id:0 copy 0
+; stop printing object water_tray_insert_2x3.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;0.6
@@ -5369,7 +5369,7 @@ G1 X57.839 Y49.010 E0.01585
 G1 X58.099 Y48.572 E0.01597
 G1 X58.444 Y48.203 E0.01585
 G1 X59.112 Y47.805 E0.02437
-@Object water_tray_insert_2x3.stl id:0 copy 0
+; printing object water_tray_insert_2x3.stl id:0 copy 0
 G1 F8640.000
 G1 X59.991 Y47.623 E-0.20727
 G1 X64.854 Y47.623 E-1.12273
@@ -7704,7 +7704,7 @@ G1 X188.028 Y50.937 E0.04964
 G1 X188.604 Y50.937 E0.01956
 G1 X189.246 Y51.579 E0.03076
 M204 S1000
-@Objectstop water_tray_insert_2x3.stl id:0 copy 0
+; stop printing object water_tray_insert_2x3.stl id:0 copy 0
 M106 S76.5
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
@@ -7721,7 +7721,7 @@ G1 E-0.07000 F2100.00000
 G1 Z0.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;0.8
-@Object water_tray_insert_2x3.stl id:0 copy 0
+; printing object water_tray_insert_2x3.stl id:0 copy 0
 G1 Z1.000
 G1 X131.576 Y123.824
 G1 Z0.800
@@ -10052,7 +10052,7 @@ G1 X115.608 Y84.399 E2.62204
 G1 X115.934 Y84.649 E0.01395
 G1 X60.754 Y139.829 E2.64648
 M204 S1000
-@Objectstop water_tray_insert_2x3.stl id:0 copy 0
+; stop printing object water_tray_insert_2x3.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;1
@@ -10064,7 +10064,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1
-@Object water_tray_insert_2x3.stl id:0 copy 0
+; printing object water_tray_insert_2x3.stl id:0 copy 0
 G1 Z1.200
 G1 X111.987 Y135.002
 G1 Z1.000
@@ -12404,7 +12404,7 @@ G1 X188.028 Y50.937 E0.04964
 G1 X188.604 Y50.937 E0.01956
 G1 X189.246 Y51.579 E0.03076
 M204 S1000
-@Objectstop water_tray_insert_2x3.stl id:0 copy 0
+; stop printing object water_tray_insert_2x3.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;1.2
@@ -12420,7 +12420,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.2
-@Object water_tray_insert_2x3.stl id:0 copy 0
+; printing object water_tray_insert_2x3.stl id:0 copy 0
 G1 Z1.400
 G1 X131.614 Y123.775
 G1 Z1.200
@@ -14754,7 +14754,7 @@ G1 X61.973 Y50.937 E0.04966
 G1 X61.396 Y50.937 E0.01956
 G1 X60.754 Y51.579 E0.03078
 M204 S1000
-@Objectstop water_tray_insert_2x3.stl id:0 copy 0
+; stop printing object water_tray_insert_2x3.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;1.4
@@ -14770,7 +14770,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.4
-@Object water_tray_insert_2x3.stl id:0 copy 0
+; printing object water_tray_insert_2x3.stl id:0 copy 0
 G1 Z1.600
 G1 X118.366 Y123.751
 G1 Z1.400
@@ -17389,14 +17389,14 @@ G1 X60.912 Y130.886 E1.18532
 G1 X60.912 Y130.380 E0.01502
 G1 X89.780 Y159.248 E1.21332
 M204 S1000
-@Objectstop water_tray_insert_2x3.stl id:0 copy 0
+; stop printing object water_tray_insert_2x3.stl id:0 copy 0
 G1 F8640.000;_WIPE
 G1 X85.707 Y155.175 E-1.33000
 G1 E-0.07000 F2100.00000
 G1 Z1.600 F10800.000
 M107
 ; Filament-specific end gcode
-@Object ENDGCODE
+; printing object ENDGCODE
 G4 ; wait
 M104 S0 ; turn off temperature
 M140 S0 ; turn off heatbed

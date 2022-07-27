@@ -394,7 +394,7 @@ G1 X112.543 Y101.906 E0.09772
 G1 X112.783 Y101.162 E0.02449
 G1 X113.894 Y98.546 E0.08912
 G1 X115.873 Y95.973 E0.10178
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 F8640.000
 G1 X118.380 Y94.003 E-0.73627
 G1 X119.075 Y93.647 E-0.18042
@@ -575,7 +575,7 @@ G1 X116.488 Y108.590 E0.03144
 G1 X121.410 Y113.513 E0.22017
 G1 X120.492 Y113.133 E0.03142
 G1 X116.555 Y109.195 E0.17613
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;0.4
@@ -662,7 +662,7 @@ G1 X129.385 Y116.991 E0.07165
 G1 X128.164 Y117.445 E0.04083
 G1 X124.999 Y117.846 E0.10004
 G1 X121.777 Y117.424 E0.10189
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 F8640.000
 G1 X118.857 Y116.263 E-0.72563
 G1 X118.351 Y115.976 E-0.13423
@@ -843,7 +843,7 @@ G1 X133.217 Y109.744 E0.00809
 G1 X131.713 Y111.703 E0.08468
 G1 X130.710 Y112.706 E0.04867
 M204 S1000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;0.6
@@ -929,7 +929,7 @@ G1 X137.413 Y108.304 E0.10445
 G1 X136.263 Y111.143 E0.09607
 G1 X135.976 Y111.649 E0.01823
 G1 X134.128 Y114.026 E0.09439
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 F8640.000
 G1 X131.484 Y116.088 E-0.77424
 G1 X129.385 Y116.991 E-0.52764
@@ -1110,7 +1110,7 @@ G1 X129.762 Y96.753 E0.00822
 G1 X131.723 Y98.258 E0.08512
 G1 X132.735 Y99.270 E0.04924
 M204 S1000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 M106 S76.5
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
@@ -1126,7 +1126,7 @@ G1 E-0.07000 F2100.00000
 G1 Z0.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;0.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z1.000
 G1 X131.977 Y98.023
 G1 Z0.800
@@ -1303,7 +1303,7 @@ G1 X116.723 Y100.221 E0.00828
 G1 X118.230 Y98.256 E0.08556
 G1 X119.249 Y97.237 E0.04976
 M204 S1000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;1
@@ -1318,7 +1318,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z1.200
 G1 X117.999 Y97.999
 G1 Z1.000
@@ -1493,7 +1493,7 @@ G1 X116.205 Y108.618 E0.24858
 G1 X116.613 Y109.604 E0.03623
 G1 X120.735 Y113.727 E0.19792
 M204 S1000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;1.2
@@ -1505,7 +1505,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X116.325 Y109.794
 G1 E1.40000 F2100.00000
 M204 S800
@@ -1680,7 +1680,7 @@ G1 X121.371 Y96.172 E0.25041
 G1 X120.383 Y96.582 E0.03645
 G1 X116.245 Y100.720 E0.19935
 M204 S1000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;1.4
@@ -1692,7 +1692,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X120.174 Y96.302
 G1 E1.40000 F2100.00000
 M204 S800
@@ -1877,7 +1877,7 @@ G1 X121.091 Y113.774 E0.20520
 G1 X120.225 Y113.416 E0.02795
 G1 X116.288 Y109.479 E0.16607
 M204 S1000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 M106 S127.5
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
@@ -1891,7 +1891,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X120.054 Y113.566
 G1 E1.40000 F2100.00000
 M204 S800
@@ -1980,7 +1980,7 @@ G1 X127.628 Y114.806 E0.02389
 G1 X124.993 Y115.151 E0.02397
 G1 X122.373 Y114.806 E0.02383
 G1 X119.980 Y113.815 E0.02336
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;1.8
@@ -1994,7 +1994,7 @@ G1 E-0.07000 F2100.00000
 G1 Z1.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;1.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X116.403 Y109.963
 G1 E1.40000 F2100.00000
 M204 S800
@@ -2083,7 +2083,7 @@ G1 X122.364 Y114.839 E0.02373
 G1 X119.901 Y113.817 E0.02374
 G1 X117.798 Y112.203 E0.02361
 G1 X116.211 Y110.135 E0.02320
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;2
@@ -2097,7 +2097,7 @@ G1 E-0.07000 F2100.00000
 G1 Z2.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X115.038 Y105.000
 G1 E1.40000 F2100.00000
 M204 S800
@@ -2186,7 +2186,7 @@ G1 X117.773 Y112.227 E0.02351
 G1 X116.147 Y110.104 E0.02351
 G1 X115.129 Y107.645 E0.02339
 G1 X114.788 Y105.060 E0.02292
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;2.2
@@ -2200,7 +2200,7 @@ G1 E-0.07000 F2100.00000
 G1 Z2.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X116.343 Y100.002
 G1 E1.40000 F2100.00000
 M204 S800
@@ -2288,7 +2288,7 @@ G1 X115.096 Y107.654 E0.02322
 G1 X114.747 Y104.993 E0.02328
 G1 X115.096 Y102.346 E0.02317
 G1 X116.097 Y99.928 E0.02270
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;2.4
@@ -2302,7 +2302,7 @@ G1 E-0.07000 F2100.00000
 G1 Z2.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X119.985 Y96.314
 G1 E1.40000 F2100.00000
 M204 S800
@@ -2391,7 +2391,7 @@ G1 X115.064 Y102.337 E0.02342
 G1 X116.095 Y99.851 E0.02342
 G1 X117.726 Y97.726 E0.02330
 G1 X119.809 Y96.127 E0.02284
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;2.6
@@ -2405,7 +2405,7 @@ G1 E-0.07000 F2100.00000
 G1 Z2.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X125.000 Y94.937
 G1 E1.40000 F2100.00000
 M204 S800
@@ -2497,7 +2497,7 @@ G1 X117.702 Y97.702 E0.02352
 G1 X119.846 Y96.059 E0.02364
 G1 X122.329 Y95.031 E0.02353
 G1 X124.915 Y94.690 E0.02282
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;2.8
@@ -2511,7 +2511,7 @@ G1 E-0.07000 F2100.00000
 G1 Z2.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;2.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X130.048 Y96.257
 G1 E1.40000 F2100.00000
 M204 S800
@@ -2598,7 +2598,7 @@ G1 X122.321 Y94.999 E0.02381
 G1 X125.007 Y94.647 E0.02386
 G1 X127.680 Y94.999 E0.02375
 G1 X130.122 Y96.010 E0.02327
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;3
@@ -2612,7 +2612,7 @@ G1 E-0.07000 F2100.00000
 G1 Z3.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X133.771 Y99.936
 G1 E1.40000 F2100.00000
 M204 S800
@@ -2699,7 +2699,7 @@ G1 X127.689 Y94.967 E0.02409
 G1 X130.199 Y96.008 E0.02408
 G1 X132.345 Y97.655 E0.02396
 G1 X133.959 Y99.759 E0.02350
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;3.2
@@ -2713,7 +2713,7 @@ G1 E-0.07000 F2100.00000
 G1 Z3.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X135.161 Y105.000
 G1 E1.40000 F2100.00000
 M204 S800
@@ -2807,7 +2807,7 @@ G1 X132.368 Y97.631 E0.02431
 G1 X134.027 Y99.796 E0.02431
 G1 X135.065 Y102.303 E0.02419
 G1 X135.413 Y104.940 E0.02372
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;3.4
@@ -2822,7 +2822,7 @@ G1 E-0.07000 F2100.00000
 G1 Z3.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X133.828 Y110.097
 G1 E1.40000 F2100.00000
 M204 S800
@@ -2909,7 +2909,7 @@ G1 X135.097 Y102.294 E0.02447
 G1 X135.453 Y105.007 E0.02454
 G1 X135.097 Y107.706 E0.02441
 G1 X134.076 Y110.171 E0.02393
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;3.6
@@ -2923,7 +2923,7 @@ G1 E-0.07000 F2100.00000
 G1 Z3.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X130.114 Y113.857
 G1 E1.40000 F2100.00000
 M204 S800
@@ -3010,7 +3010,7 @@ G1 X135.129 Y107.714 E0.02470
 G1 X134.078 Y110.249 E0.02476
 G1 X132.415 Y112.415 E0.02464
 G1 X130.291 Y114.045 E0.02415
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;3.8
@@ -3024,7 +3024,7 @@ G1 E-0.07000 F2100.00000
 G1 Z3.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;3.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X125.000 Y115.260
 G1 E1.40000 F2100.00000
 M204 S800
@@ -3118,7 +3118,7 @@ G1 X132.439 Y112.439 E0.02493
 G1 X130.254 Y114.114 E0.02499
 G1 X127.723 Y115.161 E0.02486
 G1 X125.060 Y115.512 E0.02439
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;4
@@ -3132,7 +3132,7 @@ G1 E-0.07000 F2100.00000
 G1 Z4.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X119.854 Y113.914
 G1 E1.40000 F2100.00000
 M204 S800
@@ -3222,7 +3222,7 @@ G1 X127.732 Y115.193 E0.02515
 G1 X124.993 Y115.552 E0.02522
 G1 X122.269 Y115.193 E0.02508
 G1 X119.779 Y114.162 E0.02461
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;4.2
@@ -3236,7 +3236,7 @@ G1 E-0.07000 F2100.00000
 G1 Z4.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X116.058 Y110.163
 G1 E1.40000 F2100.00000
 M204 S800
@@ -3322,7 +3322,7 @@ G1 X122.261 Y115.225 E0.02544
 G1 X119.702 Y114.164 E0.02544
 G1 X117.514 Y112.486 E0.02532
 G1 X115.884 Y110.361 E0.02459
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;4.4
@@ -3336,7 +3336,7 @@ G1 E-0.07000 F2100.00000
 G1 Z4.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X114.657 Y104.880
 G1 E1.40000 F2100.00000
 M204 S800
@@ -3424,7 +3424,7 @@ G1 X117.493 Y112.511 E0.02558
 G1 X115.801 Y110.303 E0.02562
 G1 X114.743 Y107.749 E0.02547
 G1 X114.384 Y105.025 E0.02531
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;4.6
@@ -3438,7 +3438,7 @@ G1 E-0.07000 F2100.00000
 G1 Z4.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X116.001 Y99.804
 G1 E1.40000 F2100.00000
 M204 S800
@@ -3527,7 +3527,7 @@ G1 X114.712 Y107.757 E0.02543
 G1 X114.349 Y104.993 E0.02550
 G1 X114.712 Y102.243 E0.02537
 G1 X115.752 Y99.730 E0.02488
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;4.8
@@ -3541,7 +3541,7 @@ G1 E-0.07000 F2100.00000
 G1 Z4.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;4.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X119.890 Y95.930
 G1 E1.40000 F2100.00000
 M204 S800
@@ -3633,7 +3633,7 @@ G1 X114.680 Y102.234 E0.02521
 G1 X115.752 Y99.652 E0.02533
 G1 X117.445 Y97.445 E0.02520
 G1 X119.616 Y95.779 E0.02479
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;5
@@ -3647,7 +3647,7 @@ G1 E-0.07000 F2100.00000
 G1 Z5.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X125.101 Y94.555
 G1 E1.40000 F2100.00000
 M204 S800
@@ -3735,7 +3735,7 @@ G1 X117.422 Y97.422 E0.02510
 G1 X119.649 Y95.716 E0.02516
 G1 X122.227 Y94.649 E0.02503
 G1 X124.947 Y94.290 E0.02462
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;5.2
@@ -3749,7 +3749,7 @@ G1 E-0.07000 F2100.00000
 G1 Z5.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X130.312 Y95.966
 G1 E1.40000 F2100.00000
 M204 S800
@@ -3836,7 +3836,7 @@ G1 X122.218 Y94.618 E0.02492
 G1 X125.007 Y94.252 E0.02498
 G1 X127.782 Y94.618 E0.02486
 G1 X130.320 Y95.668 E0.02439
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;5.4
@@ -3850,7 +3850,7 @@ G1 E-0.07000 F2100.00000
 G1 Z5.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X134.137 Y99.794
 G1 E1.40000 F2100.00000
 M204 S800
@@ -3940,7 +3940,7 @@ G1 X127.791 Y94.586 E0.02481
 G1 X130.396 Y95.667 E0.02480
 G1 X132.624 Y97.376 E0.02469
 G1 X134.301 Y99.562 E0.02423
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;5.6
@@ -3954,7 +3954,7 @@ G1 E-0.07000 F2100.00000
 G1 Z5.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X135.550 Y105.044
 G1 E1.40000 F2100.00000
 M204 S800
@@ -4042,7 +4042,7 @@ G1 X132.646 Y97.354 E0.02478
 G1 X134.368 Y99.600 E0.02478
 G1 X135.445 Y102.201 E0.02466
 G1 X135.792 Y104.832 E0.02324
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;5.8
@@ -4056,7 +4056,7 @@ G1 E-0.07000 F2100.00000
 G1 Z5.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;5.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X134.179 Y110.270
 G1 E1.40000 F2100.00000
 M204 S800
@@ -4143,7 +4143,7 @@ G1 X135.475 Y102.193 E0.02490
 G1 X135.844 Y105.007 E0.02496
 G1 X135.475 Y107.807 E0.02484
 G1 X134.425 Y110.343 E0.02414
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;6
@@ -4157,7 +4157,7 @@ G1 E-0.07000 F2100.00000
 G1 Z6.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X130.309 Y114.196
 G1 E1.40000 F2100.00000
 M204 S800
@@ -4247,7 +4247,7 @@ G1 X135.506 Y107.815 E0.02514
 G1 X134.415 Y110.444 E0.02514
 G1 X132.691 Y112.691 E0.02502
 G1 X130.487 Y114.383 E0.02455
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;6.2
@@ -4261,7 +4261,7 @@ G1 E-0.07000 F2100.00000
 G1 Z6.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;6.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X125.000 Y115.650
 G1 E1.40000 F2100.00000
 M204 S800
@@ -4349,7 +4349,7 @@ G1 X132.713 Y112.713 E0.02532
 G1 X130.448 Y114.450 E0.02532
 G1 X127.823 Y115.536 E0.02520
 G1 X125.060 Y115.901 E0.02473
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;6.4
@@ -4363,7 +4363,7 @@ G1 E-0.07000 F2100.00000
 G1 Z6.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;6.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X119.660 Y114.250
 G1 E1.40000 F2100.00000
 M204 S800
@@ -4450,7 +4450,7 @@ G1 X127.832 Y115.567 E0.02550
 G1 X124.993 Y115.939 E0.02551
 G1 X122.169 Y115.567 E0.02538
 G1 X119.586 Y114.497 E0.02491
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;6.6
@@ -4463,7 +4463,7 @@ G1 E-0.07000 F2100.00000
 G1 Z6.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;6.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X115.724 Y110.356
 G1 E1.40000 F2100.00000
 M204 S800
@@ -4552,7 +4552,7 @@ G1 X122.161 Y115.597 E0.02569
 G1 X119.509 Y114.498 E0.02568
 G1 X117.242 Y112.758 E0.02557
 G1 X115.535 Y110.533 E0.02509
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;6.8
@@ -4565,7 +4565,7 @@ G1 E-0.07000 F2100.00000
 G1 Z6.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;6.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X114.257 Y105.000
 G1 E1.40000 F2100.00000
 M204 S800
@@ -4655,7 +4655,7 @@ G1 X117.220 Y112.780 E0.02581
 G1 X115.469 Y110.495 E0.02586
 G1 X114.372 Y107.848 E0.02575
 G1 X114.005 Y105.060 E0.02527
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;7
@@ -4668,7 +4668,7 @@ G1 E-0.07000 F2100.00000
 G1 Z7.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;7
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X115.664 Y99.625
 G1 E1.40000 F2100.00000
 M204 S800
@@ -4755,7 +4755,7 @@ G1 X114.342 Y107.856 E0.02599
 G1 X113.967 Y104.993 E0.02606
 G1 X114.342 Y102.144 E0.02593
 G1 X115.421 Y99.539 E0.02545
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;7.2
@@ -4768,7 +4768,7 @@ G1 E-0.07000 F2100.00000
 G1 Z7.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;7.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X119.574 Y95.660
 G1 E1.40000 F2100.00000
 M204 S800
@@ -4855,7 +4855,7 @@ G1 X114.311 Y102.136 E0.02618
 G1 X115.422 Y99.461 E0.02624
 G1 X117.175 Y97.175 E0.02611
 G1 X119.420 Y95.453 E0.02564
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;7.4
@@ -4868,7 +4868,7 @@ G1 E-0.07000 F2100.00000
 G1 Z7.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;7.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X124.955 Y94.169
 G1 E1.40000 F2100.00000
 M204 S800
@@ -4957,7 +4957,7 @@ G1 X117.153 Y97.153 E0.02636
 G1 X119.459 Y95.386 E0.02643
 G1 X122.128 Y94.281 E0.02629
 G1 X124.948 Y93.909 E0.02588
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;7.6
@@ -4970,7 +4970,7 @@ G1 E-0.07000 F2100.00000
 G1 Z7.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;7.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X130.383 Y95.566
 G1 E1.40000 F2100.00000
 M204 S800
@@ -5059,7 +5059,7 @@ G1 X122.120 Y94.250 E0.02654
 G1 X125.007 Y93.872 E0.02661
 G1 X127.881 Y94.250 E0.02648
 G1 X130.503 Y95.336 E0.02593
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;7.8
@@ -5072,7 +5072,7 @@ G1 E-0.07000 F2100.00000
 G1 Z7.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;7.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X134.388 Y99.482
 G1 E1.40000 F2100.00000
 M204 S800
@@ -5160,7 +5160,7 @@ G1 X127.889 Y94.220 E0.02659
 G1 X130.586 Y95.339 E0.02672
 G1 X132.892 Y97.108 E0.02659
 G1 X134.613 Y99.352 E0.02587
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;8
@@ -5173,7 +5173,7 @@ G1 E-0.07000 F2100.00000
 G1 Z8.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X135.916 Y104.881
 G1 E1.40000 F2100.00000
 M204 S800
@@ -5261,7 +5261,7 @@ G1 X132.913 Y97.086 E0.02658
 G1 X134.695 Y99.411 E0.02658
 G1 X135.810 Y102.103 E0.02646
 G1 X136.180 Y104.915 E0.02574
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;8.2
@@ -5274,7 +5274,7 @@ G1 E-0.07000 F2100.00000
 G1 Z8.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;8.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X134.546 Y110.356
 G1 E1.40000 F2100.00000
 M204 S800
@@ -5361,7 +5361,7 @@ G1 X135.840 Y102.095 E0.02645
 G1 X136.222 Y105.007 E0.02645
 G1 X135.840 Y107.905 E0.02632
 G1 X134.752 Y110.531 E0.02561
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;8.4
@@ -5374,7 +5374,7 @@ G1 E-0.07000 F2100.00000
 G1 Z8.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;8.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X130.497 Y114.521
 G1 E1.40000 F2100.00000
 M204 S800
@@ -5464,7 +5464,7 @@ G1 X135.870 Y107.913 E0.02625
 G1 X134.741 Y110.632 E0.02631
 G1 X132.957 Y112.957 E0.02619
 G1 X130.675 Y114.709 E0.02571
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;8.6
@@ -5477,7 +5477,7 @@ G1 E-0.07000 F2100.00000
 G1 Z8.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;8.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X125.143 Y116.006
 G1 E1.40000 F2100.00000
 M204 S800
@@ -5565,7 +5565,7 @@ G1 X132.979 Y112.979 E0.02612
 G1 X130.636 Y114.775 E0.02617
 G1 X127.921 Y115.899 E0.02606
 G1 X125.085 Y116.273 E0.02535
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;8.8
@@ -5578,7 +5578,7 @@ G1 E-0.07000 F2100.00000
 G1 Z8.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;8.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X119.473 Y114.575
 G1 E1.40000 F2100.00000
 M204 S800
@@ -5665,7 +5665,7 @@ G1 X127.929 Y115.929 E0.02624
 G1 X124.993 Y116.314 E0.02624
 G1 X122.072 Y115.929 E0.02612
 G1 X119.398 Y114.822 E0.02564
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;9
@@ -5678,7 +5678,7 @@ G1 E-0.07000 F2100.00000
 G1 Z9.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;9
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X115.400 Y110.543
 G1 E1.40000 F2100.00000
 M204 S800
@@ -5765,7 +5765,7 @@ G1 X122.064 Y115.958 E0.02638
 G1 X119.323 Y114.821 E0.02643
 G1 X116.978 Y113.022 E0.02632
 G1 X115.212 Y110.720 E0.02584
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;9.2
@@ -5778,7 +5778,7 @@ G1 E-0.07000 F2100.00000
 G1 Z9.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;9.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X113.885 Y105.000
 G1 E1.40000 F2100.00000
 M204 S800
@@ -5867,7 +5867,7 @@ G1 X116.957 Y113.043 E0.02658
 G1 X115.147 Y110.681 E0.02663
 G1 X114.013 Y107.944 E0.02652
 G1 X113.633 Y105.060 E0.02604
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;9.4
@@ -5880,7 +5880,7 @@ G1 E-0.07000 F2100.00000
 G1 Z9.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;9.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X115.348 Y99.427
 G1 E1.40000 F2100.00000
 M204 S800
@@ -5967,7 +5967,7 @@ G1 X113.984 Y107.952 E0.02678
 G1 X113.596 Y104.993 E0.02684
 G1 X113.984 Y102.048 E0.02672
 G1 X115.100 Y99.353 E0.02624
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;9.6
@@ -5980,7 +5980,7 @@ G1 E-0.07000 F2100.00000
 G1 Z9.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;9.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X119.413 Y95.322
 G1 E1.40000 F2100.00000
 M204 S800
@@ -6067,7 +6067,7 @@ G1 X113.954 Y102.040 E0.02698
 G1 X115.101 Y99.276 E0.02705
 G1 X116.914 Y96.914 E0.02691
 G1 X119.235 Y95.133 E0.02644
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;9.8
@@ -6080,7 +6080,7 @@ G1 E-0.07000 F2100.00000
 G1 Z9.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;9.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X125.000 Y93.794
 G1 E1.40000 F2100.00000
 M204 S800
@@ -6170,7 +6170,7 @@ G1 X116.893 Y96.893 E0.02719
 G1 X119.274 Y95.068 E0.02726
 G1 X122.032 Y93.925 E0.02712
 G1 X124.915 Y93.546 E0.02641
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;10
@@ -6183,7 +6183,7 @@ G1 E-0.07000 F2100.00000
 G1 Z10.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;10
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X130.618 Y95.270
 G1 E1.40000 F2100.00000
 M204 S800
@@ -6271,7 +6271,7 @@ G1 X122.025 Y93.896 E0.02745
 G1 X125.007 Y93.505 E0.02746
 G1 X127.975 Y93.896 E0.02733
 G1 X130.693 Y95.021 E0.02685
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;10.2
@@ -6284,7 +6284,7 @@ G1 E-0.07000 F2100.00000
 G1 Z10.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;10.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X135.112 Y99.162
 G1 E1.40000 F2100.00000
 M204 S800
@@ -6402,7 +6402,7 @@ G1 X133.638 Y96.362 E0.10796
 G1 X135.390 Y98.646 E0.09743
 M204 S1000
 G1 X135.342 Y98.929 F10800.000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;10.4
@@ -6416,7 +6416,7 @@ G1 E-0.07000 F2100.00000
 G1 Z10.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;10.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X136.706 Y105.000
 G1 E1.40000 F2100.00000
 M204 S800
@@ -6533,7 +6533,7 @@ G1 X136.830 Y101.830 E0.10823
 G1 X137.239 Y104.941 E0.10619
 M204 S1000
 G1 X136.901 Y105.200 F10800.000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;10.6
@@ -6546,7 +6546,7 @@ G1 E-0.07000 F2100.00000
 G1 Z10.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;10.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X135.164 Y110.868
 G1 E1.40000 F2100.00000
 M204 S800
@@ -6668,7 +6668,7 @@ G1 X136.860 Y108.178 E0.10850
 G1 X135.657 Y111.084 E0.10648
 M204 S1000
 G1 X135.234 Y111.140 F10800.000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;10.8
@@ -6681,7 +6681,7 @@ G1 E-0.07000 F2100.00000
 G1 Z10.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;10.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X130.884 Y115.190
 G1 E1.40000 F2100.00000
 M204 S800
@@ -6798,7 +6798,7 @@ G1 X133.704 Y113.704 E0.10877
 G1 X131.202 Y115.625 E0.10676
 M204 S1000
 G1 X130.808 Y115.461 F10800.000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 M106 S76.5
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
@@ -6812,7 +6812,7 @@ G1 E-0.07000 F2100.00000
 G1 Z11.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;11
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X125.000 Y116.795
 G1 E1.40000 F2100.00000
 M204 S800
@@ -6929,7 +6929,7 @@ G1 X128.194 Y116.921 E0.10903
 G1 X125.059 Y117.333 E0.10702
 M204 S1000
 G1 X124.800 Y116.995 F10800.000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 M106 S127.5
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
@@ -6943,7 +6943,7 @@ G1 E-0.07000 F2100.00000
 G1 Z11.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;11.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X119.077 Y115.259
 G1 E1.40000 F2100.00000
 M204 S800
@@ -7036,7 +7036,7 @@ G1 X128.134 Y116.696 E0.03016
 G1 X124.993 Y117.108 E0.03024
 G1 X121.866 Y116.696 E0.03010
 G1 X119.144 Y115.569 E0.02812
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;11.4
@@ -7050,7 +7050,7 @@ G1 E-0.07000 F2100.00000
 G1 Z11.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;11.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X114.714 Y110.938
 G1 E1.40000 F2100.00000
 M204 S800
@@ -7138,7 +7138,7 @@ G1 X121.858 Y116.726 E0.03025
 G1 X118.924 Y115.509 E0.03025
 G1 X116.415 Y113.584 E0.03012
 G1 X114.523 Y111.118 E0.02960
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;11.6
@@ -7151,7 +7151,7 @@ G1 E-0.07000 F2100.00000
 G1 Z11.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;11.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X113.093 Y105.000
 G1 E1.40000 F2100.00000
 M204 S800
@@ -7241,7 +7241,7 @@ G1 X116.394 Y113.605 E0.03046
 G1 X114.458 Y111.078 E0.03045
 G1 X113.245 Y108.150 E0.03031
 G1 X112.858 Y105.212 E0.02833
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;11.8
@@ -7255,7 +7255,7 @@ G1 E-0.07000 F2100.00000
 G1 Z11.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;11.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X114.663 Y99.032
 G1 E1.40000 F2100.00000
 M204 S800
@@ -7343,7 +7343,7 @@ G1 X113.216 Y108.157 E0.03072
 G1 X112.801 Y104.992 E0.03078
 G1 X113.216 Y101.843 E0.03064
 G1 X114.353 Y99.098 E0.02865
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;12
@@ -7357,7 +7357,7 @@ G1 E-0.07000 F2100.00000
 G1 Z12.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;12
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X119.017 Y94.637
 G1 E1.40000 F2100.00000
 M204 S800
@@ -7450,7 +7450,7 @@ G1 X113.187 Y101.835 E0.03112
 G1 X114.413 Y98.879 E0.03112
 G1 X116.352 Y96.353 E0.03097
 G1 X118.715 Y94.539 E0.02897
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;12.2
@@ -7464,7 +7464,7 @@ G1 E-0.07000 F2100.00000
 G1 Z12.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;12.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X125.000 Y93.005
 G1 E1.40000 F2100.00000
 M204 S800
@@ -7553,7 +7553,7 @@ G1 X116.331 Y96.331 E0.03138
 G1 X118.878 Y94.380 E0.03146
 G1 X121.827 Y93.159 E0.03130
 G1 X124.940 Y92.748 E0.03079
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;12.4
@@ -7566,7 +7566,7 @@ G1 E-0.07000 F2100.00000
 G1 Z12.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;12.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X131.012 Y94.586
 G1 E1.40000 F2100.00000
 M204 S800
@@ -7654,7 +7654,7 @@ G1 X121.819 Y93.130 E0.03172
 G1 X125.008 Y92.711 E0.03179
 G1 X128.181 Y93.130 E0.03164
 G1 X130.946 Y94.275 E0.02960
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;12.6
@@ -7668,7 +7668,7 @@ G1 E-0.07000 F2100.00000
 G1 Z12.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;12.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X135.439 Y98.973
 G1 E1.40000 F2100.00000
 M204 S800
@@ -7755,7 +7755,7 @@ G1 X128.188 Y93.101 E0.03213
 G1 X131.166 Y94.336 E0.03213
 G1 X133.711 Y96.289 E0.03198
 G1 X135.632 Y98.793 E0.03146
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;12.8
@@ -7768,7 +7768,7 @@ G1 E-0.07000 F2100.00000
 G1 Z12.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;12.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X137.083 Y105.000
 G1 E1.40000 F2100.00000
 M204 S800
@@ -7859,7 +7859,7 @@ G1 X133.732 Y96.268 E0.03239
 G1 X135.698 Y98.833 E0.03248
 G1 X136.928 Y101.804 E0.03231
 G1 X137.321 Y104.787 E0.03024
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;13
@@ -7873,7 +7873,7 @@ G1 E-0.07000 F2100.00000
 G1 Z13.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;13
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X135.490 Y111.056
 G1 E1.40000 F2100.00000
 M204 S800
@@ -7961,7 +7961,7 @@ G1 X136.957 Y101.796 E0.03281
 G1 X137.378 Y105.008 E0.03281
 G1 X136.957 Y108.204 E0.03266
 G1 X135.803 Y110.991 E0.03055
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;13.2
@@ -7975,7 +7975,7 @@ G1 E-0.07000 F2100.00000
 G1 Z13.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;13.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X131.071 Y115.516
 G1 E1.40000 F2100.00000
 M204 S800
@@ -8063,7 +8063,7 @@ G1 X136.986 Y108.212 E0.03316
 G1 X135.742 Y111.211 E0.03315
 G1 X133.774 Y113.775 E0.03300
 G1 X131.375 Y115.616 E0.03088
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;13.4
@@ -8077,7 +8077,7 @@ G1 E-0.07000 F2100.00000
 G1 Z13.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;13.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X125.000 Y117.172
 G1 E1.40000 F2100.00000
 M204 S800
@@ -8166,7 +8166,7 @@ G1 X133.795 Y113.796 E0.03351
 G1 X131.212 Y115.775 E0.03349
 G1 X128.219 Y117.015 E0.03333
 G1 X125.213 Y117.411 E0.03121
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;13.6
@@ -8180,7 +8180,7 @@ G1 E-0.07000 F2100.00000
 G1 Z13.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;13.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X118.900 Y115.567
 G1 E1.40000 F2100.00000
 M204 S800
@@ -8271,7 +8271,7 @@ G1 X128.227 Y117.044 E0.03384
 G1 X124.992 Y117.468 E0.03384
 G1 X121.773 Y117.044 E0.03368
 G1 X118.964 Y115.881 E0.03153
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;13.8
@@ -8285,7 +8285,7 @@ G1 E-0.07000 F2100.00000
 G1 Z13.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;13.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X114.408 Y111.115
 G1 E1.40000 F2100.00000
 M204 S800
@@ -8373,7 +8373,7 @@ G1 X121.765 Y117.073 E0.03419
 G1 X118.744 Y115.819 E0.03419
 G1 X116.162 Y113.838 E0.03402
 G1 X114.306 Y111.420 E0.03186
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;14
@@ -8387,7 +8387,7 @@ G1 E-0.07000 F2100.00000
 G1 Z14.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;14
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X112.740 Y105.000
 G1 E1.40000 F2100.00000
 M204 S800
@@ -8475,7 +8475,7 @@ G1 X116.141 Y113.859 E0.03427
 G1 X114.147 Y111.257 E0.03436
 G1 X112.898 Y108.243 E0.03419
 G1 X112.499 Y105.213 E0.03203
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;14.2
@@ -8489,7 +8489,7 @@ G1 E-0.07000 F2100.00000
 G1 Z14.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;14.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X114.357 Y98.855
 G1 E1.40000 F2100.00000
 M204 S800
@@ -8580,7 +8580,7 @@ G1 X112.870 Y108.250 E0.03435
 G1 X112.443 Y104.992 E0.03444
 G1 X112.870 Y101.750 E0.03427
 G1 X114.042 Y98.920 E0.03210
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;14.4
@@ -8594,7 +8594,7 @@ G1 E-0.07000 F2100.00000
 G1 Z14.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;14.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z14.600
 G1 X118.841 Y94.332
 G1 Z14.400
@@ -8684,7 +8684,7 @@ G1 X112.842 Y101.742 E0.03454
 G1 X114.104 Y98.700 E0.03463
 G1 X116.100 Y96.100 E0.03446
 G1 X118.536 Y94.230 E0.03229
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;14.6
@@ -8698,7 +8698,7 @@ G1 E-0.07000 F2100.00000
 G1 Z14.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;14.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z14.800
 G1 X125.000 Y92.653
 G1 Z14.600
@@ -8787,7 +8787,7 @@ G1 X116.079 Y96.079 E0.03486
 G1 X118.700 Y94.071 E0.03495
 G1 X121.735 Y92.814 E0.03477
 G1 X124.940 Y92.392 E0.03422
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;14.8
@@ -8800,7 +8800,7 @@ G1 E-0.07000 F2100.00000
 G1 Z14.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;14.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X131.188 Y94.283
 G1 E1.40000 F2100.00000
 M204 S800
@@ -8888,7 +8888,7 @@ G1 X121.727 Y92.786 E0.03518
 G1 X125.008 Y92.356 E0.03526
 G1 X128.273 Y92.786 E0.03508
 G1 X131.124 Y93.967 E0.03288
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;15
@@ -8902,7 +8902,7 @@ G1 E-0.07000 F2100.00000
 G1 Z15.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;15
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z15.200
 G1 X135.742 Y98.798
 G1 Z15.000
@@ -8994,7 +8994,7 @@ G1 X128.280 Y92.758 E0.03549
 G1 X131.344 Y94.029 E0.03558
 G1 X133.961 Y96.038 E0.03539
 G1 X135.845 Y98.492 E0.03319
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;15.2
@@ -9008,7 +9008,7 @@ G1 E-0.07000 F2100.00000
 G1 Z15.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;15.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z15.400
 G1 X137.432 Y105.000
 G1 Z15.200
@@ -9099,7 +9099,7 @@ G1 X133.981 Y96.018 E0.03589
 G1 X136.004 Y98.657 E0.03590
 G1 X137.270 Y101.712 E0.03572
 G1 X137.675 Y104.787 E0.03348
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;15.4
@@ -9113,7 +9113,7 @@ G1 E-0.07000 F2100.00000
 G1 Z15.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;15.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z15.600
 G1 X135.792 Y111.230
 G1 Z15.400
@@ -9203,7 +9203,7 @@ G1 X137.298 Y101.705 E0.03622
 G1 X137.731 Y105.008 E0.03622
 G1 X137.298 Y108.295 E0.03603
 G1 X136.108 Y111.167 E0.03379
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;15.6
@@ -9217,7 +9217,7 @@ G1 E-0.07000 F2100.00000
 G1 Z15.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;15.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z15.800
 G1 X131.245 Y115.816
 G1 Z15.600
@@ -9308,7 +9308,7 @@ G1 X137.326 Y108.303 E0.03645
 G1 X136.046 Y111.387 E0.03654
 G1 X134.022 Y114.023 E0.03636
 G1 X131.551 Y115.920 E0.03408
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;15.8
@@ -9322,7 +9322,7 @@ G1 E-0.07000 F2100.00000
 G1 Z15.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;15.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z16.000
 G1 X125.000 Y117.518
 G1 Z15.800
@@ -9416,7 +9416,7 @@ G1 X134.043 Y114.044 E0.03677
 G1 X131.387 Y116.079 E0.03685
 G1 X128.310 Y117.354 E0.03667
 G1 X125.214 Y117.762 E0.03439
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;16
@@ -9430,7 +9430,7 @@ G1 E-0.07000 F2100.00000
 G1 Z16.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;16
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z16.200
 G1 X118.727 Y115.866
 G1 Z16.000
@@ -9521,7 +9521,7 @@ G1 X128.317 Y117.382 E0.03709
 G1 X124.991 Y117.818 E0.03718
 G1 X121.683 Y117.382 E0.03699
 G1 X118.790 Y116.184 E0.03470
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;16.2
@@ -9535,7 +9535,7 @@ G1 E-0.07000 F2100.00000
 G1 Z16.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;16.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z16.400
 G1 X114.110 Y111.287
 G1 Z16.200
@@ -9624,7 +9624,7 @@ G1 X121.675 Y117.410 E0.03741
 G1 X118.569 Y116.121 E0.03751
 G1 X115.915 Y114.085 E0.03732
 G1 X113.905 Y111.465 E0.03684
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;16.4
@@ -9637,7 +9637,7 @@ G1 E-0.07000 F2100.00000
 G1 Z16.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;16.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X112.397 Y105.000
 G1 E1.40000 F2100.00000
 M204 S800
@@ -9727,7 +9727,7 @@ G1 X115.895 Y114.105 E0.03774
 G1 X113.845 Y111.430 E0.03783
 G1 X112.562 Y108.333 E0.03764
 G1 X112.131 Y105.060 E0.03706
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;16.6
@@ -9740,7 +9740,7 @@ G1 E-0.07000 F2100.00000
 G1 Z16.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;16.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z16.800
 G1 X114.060 Y98.684
 G1 Z16.600
@@ -9830,7 +9830,7 @@ G1 X112.534 Y108.340 E0.03799
 G1 X112.096 Y104.991 E0.03809
 G1 X112.534 Y101.660 E0.03789
 G1 X113.741 Y98.746 E0.03557
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;16.8
@@ -9844,7 +9844,7 @@ G1 E-0.07000 F2100.00000
 G1 Z16.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;16.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z17.000
 G1 X118.670 Y94.036
 G1 Z16.800
@@ -9934,7 +9934,7 @@ G1 X112.507 Y101.653 E0.03813
 G1 X113.804 Y98.526 E0.03823
 G1 X115.854 Y95.854 E0.03803
 G1 X118.362 Y93.930 E0.03569
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;17
@@ -9948,7 +9948,7 @@ G1 E-0.07000 F2100.00000
 G1 Z17.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;17
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z17.200
 G1 X125.000 Y92.312
 G1 Z17.000
@@ -10038,7 +10038,7 @@ G1 X115.834 Y95.834 E0.03843
 G1 X118.527 Y93.771 E0.03853
 G1 X121.645 Y92.479 E0.03833
 G1 X124.932 Y92.047 E0.03764
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;17.2
@@ -10051,7 +10051,7 @@ G1 E-0.07000 F2100.00000
 G1 Z17.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;17.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z17.400
 G1 X131.358 Y93.988
 G1 Z17.200
@@ -10142,7 +10142,7 @@ G1 X121.638 Y92.452 E0.03879
 G1 X125.009 Y92.011 E0.03889
 G1 X128.362 Y92.452 E0.03869
 G1 X131.296 Y93.667 E0.03633
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;17.4
@@ -10156,7 +10156,7 @@ G1 E-0.07000 F2100.00000
 G1 Z17.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;17.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z17.600
 G1 X136.036 Y98.628
 G1 Z17.400
@@ -10247,7 +10247,7 @@ G1 X128.369 Y92.425 E0.03917
 G1 X131.517 Y93.731 E0.03927
 G1 X134.205 Y95.794 E0.03906
 G1 X136.143 Y98.319 E0.03668
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;17.6
@@ -10261,7 +10261,7 @@ G1 E-0.07000 F2100.00000
 G1 Z17.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;17.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z17.800
 G1 X137.771 Y105.000
 G1 Z17.600
@@ -10352,7 +10352,7 @@ G1 X134.225 Y95.775 E0.03954
 G1 X136.302 Y98.485 E0.03964
 G1 X137.602 Y101.623 E0.03943
 G1 X138.018 Y104.786 E0.03703
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;17.8
@@ -10366,7 +10366,7 @@ G1 E-0.07000 F2100.00000
 G1 Z17.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;17.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z18.000
 G1 X136.084 Y111.400
 G1 Z17.800
@@ -10456,7 +10456,7 @@ G1 X137.629 Y101.616 E0.03990
 G1 X138.074 Y105.009 E0.04001
 G1 X137.629 Y108.384 E0.03980
 G1 X136.406 Y111.338 E0.03738
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;18
@@ -10470,7 +10470,7 @@ G1 E-0.07000 F2100.00000
 G1 Z18.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;18
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z18.200
 G1 X131.413 Y116.109
 G1 Z18.000
@@ -10562,7 +10562,7 @@ G1 X137.656 Y108.391 E0.04039
 G1 X136.342 Y111.559 E0.04039
 G1 X134.265 Y114.265 E0.04017
 G1 X131.723 Y116.216 E0.03774
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;18.2
@@ -10576,7 +10576,7 @@ G1 E-0.07000 F2100.00000
 G1 Z18.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;18.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z18.400
 G1 X125.000 Y117.855
 G1 Z18.200
@@ -10670,7 +10670,7 @@ G1 X134.285 Y114.285 E0.04076
 G1 X131.557 Y116.376 E0.04076
 G1 X128.399 Y117.684 E0.04055
 G1 X125.214 Y118.103 E0.03810
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;18.4
@@ -10684,7 +10684,7 @@ G1 E-0.07000 F2100.00000
 G1 Z18.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;18.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z18.600
 G1 X118.559 Y116.157
 G1 Z18.400
@@ -10776,7 +10776,7 @@ G1 X128.406 Y117.711 E0.04103
 G1 X124.991 Y118.158 E0.04114
 G1 X121.594 Y117.711 E0.04092
 G1 X118.620 Y116.479 E0.03845
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;18.6
@@ -10790,7 +10790,7 @@ G1 E-0.07000 F2100.00000
 G1 Z18.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;18.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z18.800
 G1 X113.819 Y111.455
 G1 Z18.600
@@ -10882,7 +10882,7 @@ G1 X121.587 Y117.738 E0.04141
 G1 X118.399 Y116.415 E0.04152
 G1 X115.675 Y114.325 E0.04130
 G1 X113.711 Y111.765 E0.03881
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;18.8
@@ -10896,7 +10896,7 @@ G1 E-0.07000 F2100.00000
 G1 Z18.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;18.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z19.000
 G1 X112.062 Y105.000
 G1 Z18.800
@@ -10987,7 +10987,7 @@ G1 X115.655 Y114.345 E0.04179
 G1 X113.551 Y111.599 E0.04190
 G1 X112.235 Y108.421 E0.04167
 G1 X111.812 Y105.215 E0.03917
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;19
@@ -11001,7 +11001,7 @@ G1 E-0.07000 F2100.00000
 G1 Z19.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;19
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z19.200
 G1 X113.771 Y98.517
 G1 Z19.000
@@ -11093,7 +11093,7 @@ G1 X112.208 Y108.428 E0.04202
 G1 X111.757 Y104.991 E0.04214
 G1 X112.208 Y101.572 E0.04191
 G1 X113.448 Y98.578 E0.03939
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;19.2
@@ -11107,7 +11107,7 @@ G1 E-0.07000 F2100.00000
 G1 Z19.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;19.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z19.400
 G1 X118.504 Y93.748
 G1 Z19.200
@@ -11199,7 +11199,7 @@ G1 X112.181 Y101.565 E0.04227
 G1 X113.512 Y98.357 E0.04238
 G1 X115.616 Y95.616 E0.04215
 G1 X118.193 Y93.638 E0.03963
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;19.4
@@ -11213,7 +11213,7 @@ G1 E-0.07000 F2100.00000
 G1 Z19.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;19.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z19.600
 G1 X125.000 Y91.980
 G1 Z19.400
@@ -11306,7 +11306,7 @@ G1 X115.596 Y95.596 E0.04259
 G1 X118.359 Y93.479 E0.04270
 G1 X121.558 Y92.154 E0.04247
 G1 X124.940 Y91.709 E0.04185
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;19.6
@@ -11319,7 +11319,7 @@ G1 E-0.07000 F2100.00000
 G1 Z19.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;19.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z19.800
 G1 X131.523 Y93.701
 G1 Z19.600
@@ -11409,7 +11409,7 @@ G1 X121.551 Y92.127 E0.04290
 G1 X125.010 Y91.675 E0.04302
 G1 X128.449 Y92.128 E0.04279
 G1 X131.463 Y93.376 E0.04023
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;19.8
@@ -11423,7 +11423,7 @@ G1 E-0.07000 F2100.00000
 G1 Z19.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;19.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z20.000
 G1 X136.322 Y98.463
 G1 Z19.800
@@ -11515,7 +11515,7 @@ G1 X128.456 Y92.101 E0.04322
 G1 X131.685 Y93.441 E0.04334
 G1 X134.442 Y95.557 E0.04310
 G1 X136.433 Y98.151 E0.04054
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;20
@@ -11529,7 +11529,7 @@ G1 E-0.07000 F2100.00000
 G1 Z20.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;20
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z20.200
 G1 X138.101 Y105.000
 G1 Z20.000
@@ -11624,7 +11624,7 @@ G1 X134.462 Y95.538 E0.04354
 G1 X136.592 Y98.318 E0.04366
 G1 X137.925 Y101.536 E0.04342
 G1 X138.353 Y104.785 E0.04085
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;20.2
@@ -11638,7 +11638,7 @@ G1 E-0.07000 F2100.00000
 G1 Z20.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;20.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z20.400
 G1 X136.369 Y111.564
 G1 Z20.200
@@ -11731,7 +11731,7 @@ G1 X137.952 Y101.529 E0.04386
 G1 X138.408 Y105.010 E0.04399
 G1 X137.952 Y108.471 E0.04374
 G1 X136.695 Y111.504 E0.04115
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;20.4
@@ -11745,7 +11745,7 @@ G1 E-0.07000 F2100.00000
 G1 Z20.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;20.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z20.600
 G1 X131.578 Y116.393
 G1 Z20.400
@@ -11835,7 +11835,7 @@ G1 X137.978 Y108.478 E0.04431
 G1 X136.630 Y111.726 E0.04431
 G1 X134.501 Y114.501 E0.04407
 G1 X131.890 Y116.505 E0.04145
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;20.6
@@ -11849,7 +11849,7 @@ G1 E-0.07000 F2100.00000
 G1 Z20.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;20.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z20.800
 G1 X125.000 Y118.183
 G1 Z20.600
@@ -11940,7 +11940,7 @@ G1 X134.520 Y114.521 E0.04464
 G1 X131.723 Y116.664 E0.04462
 G1 X128.485 Y118.006 E0.04439
 G1 X125.215 Y118.436 E0.04177
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;20.8
@@ -11954,7 +11954,7 @@ G1 E-0.07000 F2100.00000
 G1 Z20.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;20.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z21.000
 G1 X118.395 Y116.440
 G1 Z20.800
@@ -12047,7 +12047,7 @@ G1 X128.492 Y118.032 E0.04484
 G1 X124.990 Y118.491 E0.04495
 G1 X121.508 Y118.032 E0.04470
 G1 X118.454 Y116.767 E0.04208
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;21
@@ -12061,7 +12061,7 @@ G1 E-0.07000 F2100.00000
 G1 Z21.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;21
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z21.200
 G1 X113.537 Y111.618
 G1 Z21.000
@@ -12151,7 +12151,7 @@ G1 X121.501 Y118.059 E0.04506
 G1 X118.232 Y116.702 E0.04519
 G1 X115.440 Y114.559 E0.04493
 G1 X113.424 Y111.932 E0.04229
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;21.2
@@ -12165,7 +12165,7 @@ G1 E-0.07000 F2100.00000
 G1 Z21.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;21.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z21.400
 G1 X111.736 Y105.000
 G1 Z21.200
@@ -12256,7 +12256,7 @@ G1 X115.421 Y114.579 E0.04546
 G1 X113.265 Y111.764 E0.04558
 G1 X111.915 Y108.506 E0.04533
 G1 X111.482 Y105.215 E0.04267
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;21.4
@@ -12270,7 +12270,7 @@ G1 E-0.07000 F2100.00000
 G1 Z21.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;21.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z21.600
 G1 X113.490 Y98.355
 G1 Z21.400
@@ -12361,7 +12361,7 @@ G1 X111.889 Y108.513 E0.04583
 G1 X111.428 Y104.990 E0.04596
 G1 X111.889 Y101.487 E0.04570
 G1 X113.162 Y98.414 E0.04303
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;21.6
@@ -12375,7 +12375,7 @@ G1 E-0.07000 F2100.00000
 G1 Z21.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;21.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z21.800
 G1 X118.342 Y93.468
 G1 Z21.600
@@ -12465,7 +12465,7 @@ G1 X111.863 Y101.480 E0.04621
 G1 X113.228 Y98.192 E0.04634
 G1 X115.383 Y95.383 E0.04608
 G1 X118.028 Y93.354 E0.04338
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 M106 S76.5
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
@@ -12480,7 +12480,7 @@ G1 E-0.07000 F2100.00000
 G1 Z21.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;21.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z22.000
 G1 X121.440 Y91.715
 G1 Z21.800
@@ -12602,7 +12602,7 @@ G1 X117.869 Y92.649 E0.12603
 G1 X121.026 Y91.342 E0.11563
 M204 S1000
 G1 X121.283 Y91.460 F10800.000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;22
@@ -12616,7 +12616,7 @@ G1 E-0.07000 F2100.00000
 G1 Z22.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;22
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z22.200
 G1 X125.000 Y91.219
 G1 Z22.000
@@ -12762,7 +12762,7 @@ G1 X115.085 Y95.085 E0.02230
 G1 X117.993 Y92.854 E0.02229
 G1 X121.371 Y91.455 E0.02224
 G1 X124.940 Y90.985 E0.02190
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;22.2
@@ -12775,7 +12775,7 @@ G1 E-0.07000 F2100.00000
 G1 Z22.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;22.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z22.400
 G1 X131.904 Y93.043
 G1 Z22.200
@@ -12930,7 +12930,7 @@ G1 X121.336 Y91.328 E0.08694
 G1 X125.023 Y90.848 E0.08751
 G1 X128.663 Y91.328 E0.08642
 G1 X131.953 Y92.690 E0.08379
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;22.4
@@ -12944,7 +12944,7 @@ G1 E-0.07000 F2100.00000
 G1 Z22.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;22.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z22.600
 G1 X136.980 Y98.083
 G1 Z22.400
@@ -13097,7 +13097,7 @@ G1 X128.680 Y91.264 E0.11207
 G1 X132.130 Y92.699 E0.11278
 G1 X135.055 Y94.945 E0.11135
 G1 X137.237 Y97.787 E0.10817
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;22.6
@@ -13111,7 +13111,7 @@ G1 E-0.07000 F2100.00000
 G1 Z22.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;22.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z22.800
 G1 X138.860 Y105.000
 G1 Z22.600
@@ -13560,7 +13560,7 @@ G1 X130.407 Y91.778 E0.02129
 G1 X131.401 Y92.190 E0.03682
 G1 X132.465 Y93.253 E0.05150
 M204 S1000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;22.8
@@ -13578,7 +13578,7 @@ G1 E-0.07000 F2100.00000
 G1 Z22.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;22.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X128.543 Y91.580
 G1 E1.40000 F2100.00000
 M204 S800
@@ -14009,7 +14009,7 @@ G1 X137.537 Y112.238 E0.02842
 G1 X137.131 Y112.767 E0.02261
 G1 X132.110 Y117.789 E0.24081
 M204 S1000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;23
@@ -14021,7 +14021,7 @@ G1 E-0.07000 F2100.00000
 G1 Z23.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;23
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z23.200
 G1 X134.838 Y114.838
 G1 Z23.000
@@ -14457,7 +14457,7 @@ G1 X137.769 Y98.983 E0.02532
 G1 X137.360 Y97.996 E0.03630
 G1 X138.225 Y98.862 E0.04159
 M204 S1000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;23.2
@@ -14474,7 +14474,7 @@ G1 E-0.07000 F2100.00000
 G1 Z23.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;23.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X138.464 Y101.392
 G1 E1.40000 F2100.00000
 M204 S800
@@ -14903,7 +14903,7 @@ G1 X137.592 Y112.270 E0.02877
 G1 X137.189 Y112.795 E0.02254
 G1 X132.140 Y117.844 E0.24318
 M204 S1000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;23.4
@@ -14915,7 +14915,7 @@ G1 E-0.07000 F2100.00000
 G1 Z23.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;23.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z23.600
 G1 X134.875 Y114.875
 G1 Z23.400
@@ -15349,7 +15349,7 @@ G1 X137.839 Y99.018 E0.02325
 G1 X137.430 Y98.029 E0.03642
 G1 X138.251 Y98.850 E0.03952
 M204 S1000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;23.6
@@ -15367,7 +15367,7 @@ G1 E-0.07000 F2100.00000
 G1 Z23.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;23.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 X138.514 Y101.378
 G1 E1.40000 F2100.00000
 M204 S800
@@ -15621,7 +15621,7 @@ G1 X136.398 Y96.397 F10800.000
 G1 F1405
 G1 X137.472 Y97.799 E0.05976
 G1 X137.867 Y98.750 E0.03485
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;23.8
@@ -15634,7 +15634,7 @@ G1 E-0.75439 F2100.00000
 G1 Z23.800 F10800.000
 ;AFTER_LAYER_CHANGE
 ;23.8
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z24.000
 G1 X137.140 Y97.991
 G1 Z23.800
@@ -15795,7 +15795,7 @@ G1 X128.726 Y91.092 E0.11037
 G1 X132.218 Y92.543 E0.11038
 G1 X135.182 Y94.818 E0.10905
 G1 X137.391 Y97.697 E0.10592
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;24
@@ -15809,7 +15809,7 @@ G1 E-0.07000 F2100.00000
 G1 Z24.000 F10800.000
 ;AFTER_LAYER_CHANGE
 ;24
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z24.200
 G1 X138.565 Y101.365
 G1 Z24.000
@@ -15963,7 +15963,7 @@ G1 X132.187 Y92.552 E0.07773
 G1 X135.174 Y94.849 E0.07806
 G1 X137.448 Y97.813 E0.07739
 G1 X138.832 Y101.153 E0.07490
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;24.2
@@ -15977,7 +15977,7 @@ G1 E-0.07000 F2100.00000
 G1 Z24.200 F10800.000
 ;AFTER_LAYER_CHANGE
 ;24.2
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z24.400
 G1 X139.070 Y105.000
 G1 Z24.200
@@ -16122,7 +16122,7 @@ G1 X135.136 Y94.864 E0.03647
 G1 X137.416 Y97.840 E0.03646
 G1 X138.845 Y101.290 E0.03632
 G1 X139.326 Y104.940 E0.03581
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
 ;24.4
@@ -16135,7 +16135,7 @@ G1 E-0.07000 F2100.00000
 G1 Z24.400 F10800.000
 ;AFTER_LAYER_CHANGE
 ;24.4
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z24.600
 G1 X137.207 Y112.048
 G1 Z24.400
@@ -16257,7 +16257,7 @@ G1 X139.383 Y108.854 E0.13158
 G1 X137.919 Y112.390 E0.12954
 M204 S1000
 G1 X137.496 Y112.445 F10800.000
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 M106 S127.5
 ;BEFORE_LAYER_CHANGE
 G92 E0.0
@@ -16271,7 +16271,7 @@ G1 E-0.07000 F2100.00000
 G1 Z24.600 F10800.000
 ;AFTER_LAYER_CHANGE
 ;24.6
-@Object sacrament_cup.stl id:0 copy 0
+; printing object sacrament_cup.stl id:0 copy 0
 G1 Z24.800
 G1 X134.812 Y114.812
 G1 Z24.600
@@ -16365,7 +16365,7 @@ G1 X139.263 Y105.000 E0.11291
 G1 X138.769 Y108.714 E0.11291
 G1 X137.352 Y112.131 E0.11149
 G1 X135.227 Y114.903 E0.10529
-@Objectstop sacrament_cup.stl id:0 copy 0
+; stop printing object sacrament_cup.stl id:0 copy 0
 G1 F8640.000;_WIPE
 G1 X135.067 Y115.101 E-0.05854
 G1 F8640.000;_WIPE
@@ -16376,7 +16376,7 @@ G1 E-0.07000 F2100.00000
 G1 Z24.800 F10800.000
 M107
 ; Filament-specific end gcode
-@Object ENDGCODE
+; printing object ENDGCODE
 G4 ; wait
 M104 S0 ; turn off temperature
 M140 S0 ; turn off heatbed
