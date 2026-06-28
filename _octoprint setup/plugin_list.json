@@ -1,0 +1,92 @@
+[
+  {
+    "key": "themeify",
+    "name": "Themeify",
+    "url": "https://github.com/birkbjo/OctoPrint-Themeify",
+    "archive": "https://github.com/birkbjo/OctoPrint-Themeify/archive/master.zip"
+  },
+  {
+    "key": "PrintTimeGenius",
+    "name": "PrintTimeGenius Plugin",
+    "url": "https://github.com/eyal0/OctoPrint-PrintTimeGenius",
+    "archive": "https://github.com/eyal0/OctoPrint-PrintTimeGenius/archive/master.zip"
+  },
+  {
+    "key": "DisplayLayerProgress",
+    "name": "DisplayLayerProgress Plugin",
+    "url": "https://github.com/OllisGit/OctoPrint-DisplayLayerProgress",
+    "archive": "https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/releases/latest/download/master.zip"
+  },
+  {
+    "key": "uploadanything",
+    "name": "Upload Anything",
+    "url": "https://github.com/rlogiacco/UploadAnything",
+    "archive": "https://github.com/rlogiacco/UploadAnything/archive/master.zip"
+  },
+  {
+    "key": "prusaslicerthumbnails",
+    "name": "Slicer Thumbnails",
+    "url": "https://github.com/jneilliii/OctoPrint-PrusaSlicerThumbnails",
+    "archive": "https://github.com/jneilliii/OctoPrint-PrusaSlicerThumbnails/archive/master.zip"
+  },
+  {
+    "key": "fullscreen",
+    "name": "Fullscreen Plugin",
+    "url": "https://github.com/BillyBlaze/OctoPrint-FullScreen",
+    "archive": "https://github.com/BillyBlaze/OctoPrint-FullScreen/archive/master.zip"
+  },
+  {
+    "key": "MultipleUpload",
+    "name": "MultipleUpload Plugin",
+    "url": "https://github.com/eyal0/OctoPrint-MultipleUpload",
+    "archive": "https://github.com/eyal0/OctoPrint-MultipleUpload/archive/master.zip"
+  },
+  {
+    "key": "cancelobject",
+    "name": "Cancel Objects",
+    "url": "https://github.com/paukstelis/OctoPrint-Cancelobject",
+    "archive": "https://github.com/paukstelis/OctoPrint-Cancelobject/archive/master.zip"
+  },
+  {
+    "key": "taborder",
+    "name": "Tab Order",
+    "url": "https://github.com/jneilliii/OctoPrint-TabOrder",
+    "archive": "https://github.com/jneilliii/OctoPrint-TabOrder/archive/master.zip"
+  },
+  {
+    "key": "simpleemergencystop",
+    "name": "Simple Emergency Stop",
+    "url": "https://github.com/Sebclem/OctoPrint-SimpleEmergencyStop",
+    "archive": "https://github.com/Sebclem/OctoPrint-SimpleEmergencyStop/archive/master.zip"
+  },
+  {
+    "key": "camerasettings",
+    "name": "Camera Settings",
+    "url": "https://github.com/The-EG/OctoPrint-CameraSettings",
+    "archive": "https://github.com/The-EG/OctoPrint-CameraSettings/archive/main.zip"
+  },
+  {
+    "key": "filemanager",
+    "name": "FileManager",
+    "url": "https://github.com/Salandora/OctoPrint-FileManager",
+    "archive": "https://github.com/Salandora/OctoPrint-FileManager/archive/master.zip"
+  },
+  {
+    "key": "simple_filament_change_buttons",
+    "name": "Simple Filament Change Buttons",
+    "url": "https://github.com/TheThief/Octoprint_Simple_Filament_Change_Buttons",
+    "archive": "https://github.com/TheThief/Octoprint_Simple_Filament_Change_Buttons/archive/master.zip"
+  },
+  {
+    "key": "tasmota",
+    "name": "Tasmota",
+    "url": "https://github.com/jneilliii/OctoPrint-Tasmota",
+    "archive": "https://github.com/jneilliii/OctoPrint-Tasmota/archive/master.zip"
+  },
+  {
+    "key": "firmwareupdater",
+    "name": "Firmware Updater",
+    "url": "https://github.com/OctoPrint/OctoPrint-FirmwareUpdater",
+    "archive": "https://github.com/OctoPrint/OctoPrint-FirmwareUpdater/archive/master.zip"
+  }
+]
