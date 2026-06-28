@@ -37,24 +37,16 @@ $ `sudo nano /etc/rc.local`
 
 ### General
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/1.%20General.png" width="70%" alt="General Settings" align="center">
-</p>
+![General Settings](https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/_octoprint%20setup/1.%20General.png)
 
 ### Bed and Volume
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/2.%20Print%20Bed%20and%20Build%20Volume.png" width="70%" alt="Print Bed and Build Volume" align="center">
-</p>
+![Print Bed and Build Volume](https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/_octoprint%20setup/2.%20Print%20Bed%20and%20Build%20Volume.png)
 
 ### Axes
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/3.%20Axes.png" width="70%" alt="Axes" align="center">
-</p>
+![Axes](https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/_octoprint%20setup/3.%20Axes.png)
 
 ### Hotend and Extruder
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/images/4.%20Hotend%20and%20Extruder.png" width="70%" alt="Hotend and Extruder" align="center">
-</p>
+![Hotend and Extruder](https://raw.githubusercontent.com/MikeRatcliffe/3D-Printing/master/_octoprint%20setup/4.%20Hotend%20and%20Extruder.png)
