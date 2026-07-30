@@ -1,5 +1,5 @@
 include <../_pegmixer/pegmixer.scad>
-include <../_lib/BOSL2/std.scad>
+include <BOSL2/std.scad>
 
 /*
  * Complex example that illustrates:

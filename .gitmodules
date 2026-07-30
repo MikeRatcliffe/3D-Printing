@@ -1,6 +1,3 @@
-[submodule "Pegboard/_lib/BOSL2"]
-	path = Pegboard/_lib/BOSL2
-	url = git@github.com:BelfrySCAD/BOSL2.git
 [submodule "Pegboard/_pegmixer"]
 	path = Pegboard/_pegmixer
 	url = git@github.com:MikeRatcliffe/pegmixer.git
